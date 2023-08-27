@@ -1,0 +1,45 @@
+.headerContact{
+    font-weight: 400;
+    font-size: 30px;
+    text-align: left;
+    color: #8c999f;
+    margin-top: 81px;
+}
+.imgContact{
+    background-image: url('https://www.frontrangelocksmith.com/images/contact-banner.png');
+}
+.tag{
+   
+        font-size: 16px;
+        text-align: left;
+        color: #8c999f;
+   
+}
+
+.fa {
+    color: #27b5fb;
+    font-size: 20px;
+}
+.detail{
+    padding-bottom: 20px;
+    padding-left: 11px;
+}
+
+.detail span{
+    width: 30px;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+.map {
+    width: 548px;
+    height: 339px;
+}
+
+.mapIframe{
+    width: 548px;
+    height: 339px;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+}

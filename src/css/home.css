@@ -1,0 +1,14 @@
+.imageOpening{
+    background-image: linear-gradient(to right,#00000025,#0000002d),url('https://dta0yqvfnusiq.cloudfront.net/jobdo23092996/2018/10/hero2-5bc9ec8bde55b.jpg');
+    min-height: 70vh;
+    width: 100%;
+background-size: cover;
+object-fit: cover;
+   background-position: center;
+  background-attachment: fixed;
+
+
+}
+.h200vh{
+    height: 200vh;
+}

@@ -1,0 +1,105 @@
+.NavBar{
+    margin-top: 30px;
+ 
+    padding-top: 10px;
+
+}
+.colorOrange{
+    color: #BD8F2C;
+}
+.bcOrange{
+    background-color: #bd8f2c;
+}
+.navLinks{
+   
+
+    height: 5vh;
+}
+.LinksList{
+   
+ 
+ height: 100%;
+
+}
+.topNav{
+    padding-bottom: 20px;
+}
+.link{
+    margin-right: 60px;
+    font-weight: 400;
+    text-decoration: none;
+    color: white;
+display: block;
+  height: 95%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.link:hover{
+    border-bottom: 4px solid yellow;
+   color: red;
+ 
+}
+
+
+.navPages{
+    width: 100%;
+   
+    background-color: #1A91CB;
+}
+.NavHeader{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    font-size: 3rem; 
+font-weight: 100;
+color: white;
+
+}
+.colorBlue{
+      color: #3395ED; 
+}
+.headerPageBlue{
+    margin-top: 100px;
+    margin-bottom: 100px;
+ 
+    font-size: 2.4rem ;
+    font-weight: 400;
+}
+.imgDiv{
+    margin-right: 59px;
+}
+.textP{
+    font-size: 19px;
+    line-height: 34px;
+    color: #47545a;
+}
+.colorLighterBlue{
+    color: #27b5fb;
+}
+.boxHeader{
+    font-size: 21px;
+    padding-bottom: 10px;
+    font-weight: 600;
+   
+   
+    line-height: 1.71;
+    text-align: left;
+}
+.imageAbout{    
+    background-image: linear-gradient(to right,#bd8f2c94,#bd8f2c6e),url('https://www.frontrangelocksmith.com/images/about-banner.png');
+}
+.imageContact{
+    background-image:linear-gradient(to right,#bd8f2c78,#bd8f2c73), url('https://www.frontrangelocksmith.com/images/contact-banner.png');
+}
+
+
+.logoDiv{
+    max-width:100px;
+    max-height: 100px;
+}
+.imgLogo{
+    height: 100%;
+    width: 100%;
+}
