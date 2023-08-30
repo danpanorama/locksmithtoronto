@@ -3,7 +3,7 @@ import ContactComp from '../components/pagesComp/ContactComp';
 
 function ContactScreen() {
   return (
-    <div className="about ">
+    <div className="about marginBottom50">
      
       <ContactComp/>
      

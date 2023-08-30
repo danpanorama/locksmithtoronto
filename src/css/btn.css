@@ -4,8 +4,18 @@
     border-left: 1px solid #DFDFDF;
     border-right: 1px solid #DFDFDF;
     margin-right: 40px;
+ 
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+.DetailsLine{
     
-height: 100%;
+}
+.calltext{
+    font-size: 16px;
+    font-weight: 100;margin-left: 5px;
+    
 }
 .socialBtn{
     height: 30px;
