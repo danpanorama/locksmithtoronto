@@ -4,9 +4,9 @@ import '../../css/nav.css';
 
 function TextImage(props) {
   return (
-    <div className="flexRow marginTop50">
+    <div className="flexRowToCol reverse marginTop50">
         
-        <div className="textDIV">
+        <div className="textDIV paddingLeftRight">
         <header className="boxHeader colorOrange">
             {props.boxHeader}
         </header>

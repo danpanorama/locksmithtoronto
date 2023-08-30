@@ -26,14 +26,34 @@ body {
         max-width: 1024px;
     }}
     @media (min-width: 768px){
+   
     .containerL {
         max-width: 768px;
+   
     }}
     @media (min-width: 640px){
     .containerL {
         max-width: 640px;
     }
+   
+
     }
+
+    @media (max-width: 840px){
+      .containerL {
+          max-width: 840px;
+      }
+      .flexRowToCol{
+        flex-direction: column !important;
+      }
+      .reverse{
+        flex-direction: column-reverse !important;
+      }
+      .paddingLeftRight{
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      }
     .containerL {
         width: 100%;
     }

@@ -4,12 +4,12 @@ import '../../css/nav.css';
 
 function ImageText(props) {
   return (
-    <div className="flexRow marginTop50">
+    <div className="flexRowToCol marginTop50">
         <div className="imgDiv ">
             
             <img src={props.img} alt="" className="img" />
         </div>
-        <div className="textDIV">
+        <div className="textDIV paddingLeftRight">
         <header className="boxHeader colorOrange">
             {props.boxHeader}
         </header>
