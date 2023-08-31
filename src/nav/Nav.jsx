@@ -21,6 +21,8 @@ function Nav() {
       
  
      <NavLinks/>
+
+    
    
      
     </div>

@@ -11,6 +11,12 @@
     justify-content: center;
     align-items: center;
   }
+  .abottom{
+    align-items: flex-end;
+  }
+  .cb{
+    color: #262626;
+  }
   .acenter{
     align-items: center;
   }
@@ -108,7 +114,9 @@
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
 }
-
+.marginLeft50{
+  margin-left: 50px;
+}
 textarea {
   -webkit-appearance: textarea;
   background-color: white;

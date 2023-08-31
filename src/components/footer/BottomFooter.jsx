@@ -11,7 +11,7 @@ function BottomFooter() {
                 <p className="copyRights cw">all the rights belong to cheetah locksmith</p>
 
 
-                <div className="socialButtons flexRow h100">
+                <div className="socialButtons flexRow h100 displayNone">
                     <Socialbtn  />
                     <PhoneCall  class='cw' />
                 </div>       

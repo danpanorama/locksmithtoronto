@@ -6,7 +6,7 @@
     color: #BD8F2C;
 }
 .bcOrange{
-    background-color: #bd8f2c;
+    background-color:rgb(1, 1, 49);
 }
 .navLinks{
    
@@ -35,13 +35,44 @@ display: block;
   align-items: center;
 
 }
+.displayPhone{
+    display: none;
+}
+.floatRight{
+   align-self: flex-end;
+   width: 100%;
+
+}
+.NewNavBar{
+    position: sticky;
+    top:0 ;
+    left: 0;
+    background-color: white;
+ 
+}
+.linksNav{
+    height: 100%;
+}
+
+
+.link1{
+    margin-right: 40px;
+
+   height: 100%;
+
+   
+   
+}
 .link:hover{
     border-bottom: 4px solid yellow;
    color: red;
  
 }
-
-
+.link1:hover{
+   
+   color: red;
+ 
+}
 .navPages{
     width: 100%;
    
@@ -104,4 +135,34 @@ color: white;
 .imgLogo{
     height: 100%;
     width: 100%;
+}
+
+
+.openNavActive{
+    height: 100%;
+    opacity: 1;
+    visibility: visible;
+    width: 100%;
+
+}
+.closeNavActive{
+    height: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.liLinks{
+  
+    margin-top: 12px;
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 12px;
+    
+}
+
+.navSumble{
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
 }

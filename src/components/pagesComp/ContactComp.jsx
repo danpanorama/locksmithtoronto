@@ -13,10 +13,10 @@ function ContactComp() {
    <h1 className="headerContact">
    If there's anything you want to know or you need our help, leave us a message and we'll get back to you right away
    </h1>
-   <div className="flexRow marginTop50 bet">
+   <div className="flexRowToCol marginTop50 bet">
         <div className="DetailsContact">
           <h1 className="header-font">
-          Front Range Locksmith
+          Cheetah Locksmith
           </h1>
 
           <div className="ListDetails">

@@ -1,8 +1,8 @@
 .socialBox{
     padding-left: 35px;
     padding-right: 35px;
-    border-left: 1px solid #DFDFDF;
-    border-right: 1px solid #DFDFDF;
+    /* border-left: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF; */
     margin-right: 40px;
  
   padding-top: 20px;
@@ -43,4 +43,31 @@ background-color: #3B5998;
     border-radius: 50%;
     background-color: #FEC80B;
     margin-right: 20px;
+}
+
+.phoneBTN{
+    padding: 10px 20px 10px 20px;
+    border-radius: 25px;
+   
+   font-size: 1.3rem;
+   font-weight: 400;
+
+}
+.navServiceCall{
+    margin-bottom: 5px;
+}
+.bcBlue{
+    background-color: rgb(1, 1, 61);
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.bcYellow{
+    background-color: rgb(233, 233, 54);
+}
+.fw500{
+    font-weight: 500;
 }

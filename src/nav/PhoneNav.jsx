@@ -1,0 +1,43 @@
+import { useState } from "react";
+import "../App.css";
+import "../css/nav.css";
+import { NavLink } from "react-router-dom";
+
+
+function PhoneNav() {
+    const [OpenNav,setNavState] = useState(false);
+
+    function openNav(){
+        setNavState(!OpenNav)
+    }
+
+  return (
+    <div className="phoneNav  flexCol center w100">
+        <span className=" navSumble" onClick={openNav} >==</span>
+  <div className={OpenNav?"openNavActive  ":'closeNavActive'}>
+    <ul className="phoneLinks flexCol center w100">
+    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+    <NavLink to={'/about'} className={'liLinks'} >ABOUT</NavLink>
+    <NavLink to={'/contact'} className={'liLinks'} >CONTACT</NavLink>
+    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+
+    </ul>
+
+
+
+
+  </div>
+   
+       
+ 
+     
+   
+     
+    </div>
+  );
+}
+
+export default PhoneNav;

@@ -4,13 +4,21 @@ import HomeScreen from '../pages/HomeScreen';
 import Nav from './Nav';
 
 import { Routes, useLocation, Route, Router } from "react-router-dom";
+import NewNav from './NewNav';
+import Socialbtn from '../components/btns/Socialbtn';
+import CallButtons from '../components/btns/CallButtons';
 
 function NavRoute() {
   const location =useLocation()
 
   return (
-    <div className="home">
-<Nav/>
+    <div className="">
+      <div className="TopNav flexRow bet containerL">
+        
+        <Socialbtn/>
+        
+      </div>
+<NewNav/>
 <Routes location={location} key={location.pathname} >
       <Route path="*" element={<HomeScreen />} exact />
       <Route path="/" element={<HomeScreen />} exact />
