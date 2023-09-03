@@ -12,7 +12,7 @@ function PhoneNav() {
     }
 
   return (
-    <div className="phoneNav  flexCol center w100">
+    <div className="phoneNav  displayPhone  flexCol center w100">
         <span className=" navSumble" onClick={openNav} >==</span>
   <div className={OpenNav?"openNavActive  ":'closeNavActive'}>
     <ul className="phoneLinks flexCol center w100">
