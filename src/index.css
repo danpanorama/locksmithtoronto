@@ -10,7 +10,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.paddingTop10{
+  padding-top: 10px;
+}
 .displayPhone{
   display: none !important;
 }
@@ -65,6 +67,10 @@ body {
       .flexRowToCol{
         flex-direction: column !important;
       }
+    .marginTop10{
+      margin-top: 10px !important;
+    }
+
       .reverse{
         flex-direction: column-reverse !important;
       }
@@ -77,8 +83,7 @@ body {
         height: 100% !important;
         margin-top:  0 !important;
     }
-    .inputText{
-      width: 90% !important;
+    .inputText{ 
       padding: 0 !important;
       margin:  0 auto !important;
     
@@ -98,6 +103,24 @@ body {
       .imgDiv{
         margin: 0 !important;
       }
+      .imageOpening{
+    
+        background-position: center;
+       background-attachment:local !important;
+       object-fit: cover !important;
+       background-size: cover !important;
+     
+     
+     }
+     .phoneBTN{
+    
+     font-size: .8rem !important;
+    
+  
+  }
+  .OneSquare {
+    padding: 50px 20px 40px 20px !important;
+  }
       }
   
     .containerL {

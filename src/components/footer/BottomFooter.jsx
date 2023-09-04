@@ -7,11 +7,11 @@ import Socialbtn from '../btns/Socialbtn';
 function BottomFooter() {
     return (
         <div className="bottomFooter  ">
-            <div className="containerL flexRow bet acenter ">
-                <p className="copyRights cw">all the rights belong to cheetah locksmith</p>
+            <div className="containerL flexRowToCol reverse bet acenter ">
+                <p className="copyRights cw paddingTop10">all the rights belong to cheetah locksmith</p>
 
 
-                <div className="socialButtons flexRow h100 displayNone">
+                <div className="socialButtons flexRowToCol h100 ">
                     <Socialbtn  />
                     <PhoneCall  class='cw' />
                 </div>       
