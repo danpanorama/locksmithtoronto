@@ -14,7 +14,7 @@ body {
 .displayPhone{
   display: none !important;
 }
-@media (min-width: 1280px){
+/* @media (min-width: 1280px){
   .containerL {
       max-width: 1280px;
   }}
@@ -39,7 +39,7 @@ body {
     }
    
 
-    }
+    } */
     @media (max-width: 640px){
      
       .displayPhone{
@@ -50,9 +50,17 @@ body {
 
     
 
-    @media (max-width: 840px){
-      .containerL {
-          max-width: 840px;
+    @media (max-width: 860px){
+      .containerL{
+        width: 90% !important;
+        
+      }
+      .socialBox {
+        padding-left: 0 !important;
+       
+    }
+      .displayPhone{
+        display: block !important;
       }
       .flexRowToCol{
         flex-direction: column !important;
@@ -68,8 +76,6 @@ body {
         width: 100% !important;
         height: 100% !important;
         margin-top:  0 !important;
-        
-       
     }
     .inputText{
       width: 90% !important;
@@ -93,13 +99,15 @@ body {
         margin: 0 !important;
       }
       }
-    .containerL {
-        width: 100%;
-    }
+  
     .containerL {
         width: 100%;
         max-width: 1530px;
         margin: 0 auto;
+        
     }
     
-    
+    .containerL{
+      width: 95% ;
+      
+    }

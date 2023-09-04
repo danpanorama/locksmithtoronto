@@ -166,3 +166,9 @@ color: white;
     border: 1px solid black;
     border-radius: 10px;
 }
+.posAbsolut{
+    position: absolute;
+    left: 0;
+    background-color: white;
+   top: 100%; 
+}

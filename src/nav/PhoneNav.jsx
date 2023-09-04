@@ -12,10 +12,10 @@ function PhoneNav() {
     }
 
   return (
-    <div className="phoneNav  displayPhone  flexCol center w100">
+    <div className="phoneNav  displayPhone  flexCol center ">
         <span className=" navSumble" onClick={openNav} >==</span>
   <div className={OpenNav?"openNavActive  ":'closeNavActive'}>
-    <ul className="phoneLinks flexCol center w100">
+    <ul onClick={openNav} className="phoneLinks flexCol center w100 posAbsolut">
     <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
     <NavLink to={'/about'} className={'liLinks'} >ABOUT</NavLink>
     <NavLink to={'/contact'} className={'liLinks'} >CONTACT</NavLink>

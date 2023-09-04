@@ -117,6 +117,9 @@
 .marginLeft50{
   margin-left: 50px;
 }
+.wrap{
+  flex-wrap: wrap;
+}
 textarea {
   -webkit-appearance: textarea;
   background-color: white;

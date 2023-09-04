@@ -10,24 +10,15 @@ import PhoneNav from "./PhoneNav";
 
 function NewNav() {
   return (
-    <div className="  NewNavBar flexCol  bet">
-  
-      <div className="containerL flexRow h100 height100  bet center">
-       <div className="flexRow center height100 marginAuto100">
-       <Logo/>
-        <NewLinks/>
-       </div>
-      <CallButtons/>
-
-
+    <div className="  NewNavBar flexRow  bet">
+      <div className="containerL flexRow h100    bet center">
+        <div className="flexRow center  marginAuto100">
+          <Logo />
+          <NewLinks />
+        </div>
+        <CallButtons />
+        <PhoneNav />
       </div>
-       
-   <div className="floatRight flexCol center">
-   <PhoneNav/>
-    
-   
-   </div>
-     
     </div>
   );
 }

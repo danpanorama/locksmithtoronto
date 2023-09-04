@@ -7,6 +7,7 @@ import { Routes, useLocation, Route, Router } from "react-router-dom";
 import NewNav from './NewNav';
 import Socialbtn from '../components/btns/Socialbtn';
 import CallButtons from '../components/btns/CallButtons';
+import ServiceScreen from '../pages/ServiceScreen';
 
 function NavRoute() {
   const location =useLocation()
@@ -26,6 +27,8 @@ function NavRoute() {
       <Route path="/about" element={<AboutScreen />} exact />
 
       <Route path="/contact" element={<ContactScreen />} exact />
+      <Route path="/service" element={<ServiceScreen />} exact />
+
 
         {/* <Routes path="/404" element={<Nofuondpage/>} exact/> */}
       </Routes>  
