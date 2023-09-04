@@ -19,7 +19,7 @@ function PhoneNav() {
     <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
     <NavLink to={'/about'} className={'liLinks'} >ABOUT</NavLink>
     <NavLink to={'/contact'} className={'liLinks'} >CONTACT</NavLink>
-    <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
+    <NavLink to={'/service'} className={'liLinks'} >service</NavLink>
     <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
     <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>
     <NavLink to={'/'} className={'liLinks'} >HOME</NavLink>

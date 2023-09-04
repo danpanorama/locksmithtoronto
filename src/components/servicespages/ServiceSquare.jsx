@@ -7,14 +7,14 @@ function ServiceSquare(props) {
       <div className="imageDiv">
         <img className="img" src={props.img} alt="" />
       </div>
-      <div className="header">{props.header}</div>
+      <div className="header-fontService">{props.header}</div>
 
-      <div className="paregraph">{props.text}</div>
+      <div className="headerBlue">{props.text}</div>
 
-      <div className="List">
+      <div className="List marginTop20">
         <ul className="LinkList">
           {props.linkList.map((e) => {
-            return <li className="linkList">{e}</li>;
+            return <li className="linkList fontsLine">{e}</li>;
           })}
         </ul>
       </div>

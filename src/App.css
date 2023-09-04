@@ -75,6 +75,9 @@
 .marginTop50{
   margin-top: 100px;
 }
+.marginTop20{
+  margin-top: 20px;
+}
 .marginRight100{
  margin-right: 100px;
 }
@@ -88,6 +91,14 @@
   color: #27b5fb;
   font-weight: 400;
   margin-bottom: 55px;
+}
+
+.header-fontService{
+  font-size: 30px;
+  text-align: left;
+  color: #27b5fb;
+  font-weight: 400;
+  margin-bottom: 15px;
 }
 .formInputs{
   margin-bottom: 40px;

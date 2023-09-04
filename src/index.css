@@ -101,13 +101,12 @@ body {
       }
   
     .containerL {
-        width: 100%;
         max-width: 1530px;
         margin: 0 auto;
         
     }
     
     .containerL{
-      width: 95% ;
+      width: 85% ;
       
     }

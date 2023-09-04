@@ -7,4 +7,10 @@
     box-shadow: 0px 0px 46px 7px rgba(0,0,0);
     box-shadow: 0px 0px 46px 7px rgba(0, 0, 0, 0.13);
     margin-top: 180px;
+    max-width: 500px;
+}
+
+.fontsLine{
+    font-size: 14px;
+    line-height: 24px;
 }
