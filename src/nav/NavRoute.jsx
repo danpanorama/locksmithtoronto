@@ -14,7 +14,7 @@ function NavRoute() {
 
   return (
     <div className="">
-      <div className="TopNav flexRow bet containerL">
+      <div className="TopNav displayPhone flexRow bet containerL">
         
         <Socialbtn/>
         

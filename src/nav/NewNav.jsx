@@ -16,6 +16,9 @@ function NewNav() {
           <Logo />
           <NewLinks />
         </div>
+        <div className="displayNone">
+        <Socialbtn />
+        </div>
         <CallButtons />
         <PhoneNav />
       </div>
