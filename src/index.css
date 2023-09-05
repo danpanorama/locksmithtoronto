@@ -59,7 +59,11 @@ body {
       }
       .socialBox {
         padding-left: 0 !important;
-       
+        justify-content: flex-start !important;
+       width: 100% !important;
+    }
+    .socialButtons {
+      width: 100%;
     }
       .displayPhone{
         display: block !important;
@@ -119,7 +123,7 @@ body {
   
   }
   .OneSquare {
-    padding: 50px 20px 40px 20px !important;
+    padding: 10px 20px 40px 20px !important;
   }
       }
   
