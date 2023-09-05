@@ -19,7 +19,8 @@ function NavRoute() {
         <Socialbtn/>
         
       </div>
-<NewNav/>
+      <Nav/>
+{/* <NewNav/> */}
 <Routes location={location} key={location.pathname} >
       <Route path="*" element={<HomeScreen />} exact />
       <Route path="/" element={<HomeScreen />} exact />

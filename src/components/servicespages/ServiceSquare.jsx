@@ -5,7 +5,7 @@ function ServiceSquare(props) {
   return (
     <div className="OneSquare">
       <div className="imageDiv">
-        <img className="img" src={props.img} alt="" />
+        <img className="img imgService" src={props.img} alt="" />
       </div>
       <div className="header-fontService">{props.header}</div>
 

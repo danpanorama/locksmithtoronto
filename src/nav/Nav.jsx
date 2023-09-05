@@ -10,11 +10,12 @@ function Nav() {
     <div className="  NavBar  ">
       <div className="flexRow bet containerL topNav">
         <Logo/>
+ <div className="flexRow center h100">
+       <Socialbtn/>  
+       <PhoneCall/>
 
-        <PhoneCall/>
-
-        <div className="flexRow center h100">
-        <Socialbtn/>
+       
+       
         </div>
 
       </div>

@@ -116,6 +116,10 @@ body {
      
      
      }
+     .imgService{
+      max-width: 200px;
+      max-height: 200px;
+     }
      .phoneBTN{
     
      font-size: .8rem !important;
@@ -137,3 +141,13 @@ body {
       width: 85% ;
       
     }
+
+
+
+    .headerBlue{
+      font-weight: 400;
+      font-size: 18px;
+      text-align: left;
+      color: #8c999f;
+      margin-top: 21px;
+  }
