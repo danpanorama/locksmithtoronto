@@ -7,7 +7,7 @@ function DetailRow(props) {
   return (
   
    
-    <div className={props.class +"  flexRowToCol marginBottomPhone"}>
+    <div className={props.class +"  flexRowToCol  marginBottomPhone"}>
     {!(props.active)?      <div className="thumbnail ">
       <img src={props.image} alt="" className="img thumbnailimg" />
      </div>:

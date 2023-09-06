@@ -1,0 +1,79 @@
+.openImage{
+    height: 60vh;
+    width: 100%;
+    background-image: linear-gradient(to right,#75abbec0,#215369d6), url('../images/toroontocity.jpg');
+    background-size: cover;
+    object-fit: cover;
+    background-position: center;
+}
+.FourSquaresGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    gap: 20px;
+
+}
+.oneSquare{
+    padding: 15px 25px 15px 25px;
+    background-image: linear-gradient(#F84549, #DA3B3B);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.smallHeader{
+    font-weight: 400;
+    font-size: 1.3rem;
+
+}
+.headerH1{
+    font-size: 2.5rem;
+    font-weight: 400;
+
+}
+
+.btn{
+    padding: 10px 20px 10px 20px ;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+   
+}
+.sideA{
+    width: 514px;
+}
+.buttonNumber{
+    width: 70%;
+    min-height: 50px;
+    margin-top: 20px;
+ font-size: 2rem;
+ overflow: hidden;
+}
+.buttonPhone{
+   min-height: 50px;
+    width: 25%;
+    font-size: 2rem;
+    background-color: rgb(255, 174, 0);
+}
+
+.lineHeight{
+    line-height: 40px;
+}
+.span{
+    background-image: url('https://res.cloudinary.com/dt0sbcfc6/image/upload/v1522790801/denver/check-mark.png');
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    object-fit: cover;
+    vertical-align: top;
+    text-align: left;
+}
+
+.heading {
+    margin-top: 47px;
+}
+.headingh4 {
+    font-size: 30px;
+    text-align: center;
+    color: #8c999f;
+    font-weight: 400;
+}

@@ -3,37 +3,36 @@ import PhoneCall from "../components/btns/PhoneCall";
 import Socialbtn from "../components/btns/Socialbtn";
 import Logo from "../components/logo/Logo";
 import "../css/nav.css";
+import BottomNav from "./BottomNav";
 import NavLinks from "./NavLinks";
 import PhoneNav from "./PhoneNav";
+import TopNav from "./TopNav";
 
 function Nav() {
   return (
-    <div className="  NavBar  ">
-      <div className="flexRow bet containerL topNav">
-        <Logo/>
- <div className="flexRow center h100">
- <PhoneNav/>
-     <div className="displayNone">
-     <Socialbtn/>  
+  <div className="barNav">
+      <div className="displayNone">
+      <div className="  NavBar   ">
+  <div className="containerL">
+  <div className="flexRow bet">
+      <Logo/>
+   <div className="flexRow">
+   <Socialbtn/>
       <PhoneCall/>
-     </div>
-      
-
-       
-       
-        </div>
-
+   </div>
       </div>
-      
- 
-    <div className="displayNone">
-    <NavLinks/>
-    </div>
+  </div>
 
- 
+  <div className="LinksDIv ">
+    <NavLinks/>
+  </div>
+
    
-     
+      
     </div>
+    </div>
+    <PhoneNav/>
+  </div>
   );
 }
 
