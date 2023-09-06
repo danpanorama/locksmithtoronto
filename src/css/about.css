@@ -1,0 +1,262 @@
+
+.headerLogo{
+  
+        font-family: 'Montserrat', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        color: #3a4c5d;
+        margin: 0 0 10px 0;
+        text-transform: uppercase;
+  
+}
+
+.detailsLogos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.textLogo{
+    
+    text-align: center;
+    margin-top: 10px;
+
+    font-size: 14px;
+    color: #8c999f;
+    padding: 0 20px;
+}
+
+.aboutSection{
+    margin-bottom: 76px;
+}
+.blue-btn{
+    display: inline-block;
+    width: 230px;
+    padding: 15px 0;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    background-color: #27b5fb;
+}
+.grey-btn {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    display: inline-block;
+    background: #8c999f;
+    line-height: 50px;
+    border-radius: 3px;
+    display: inline-block;
+    width: 230px;
+    margin: 0 32px 0 0;
+}
+
+.serviceBTN{
+    padding-bottom: 86px;
+}
+.borderBottom{
+    border-bottom: solid 1px #dfdfdf;
+}
+
+.h5 {
+    line-height: 18px;
+    font-size: 14px;
+    text-align: center;
+    color: #ffc800;
+    font-weight: 400;
+    margin-bottom: 58px;
+}
+.h4 {
+    line-height: 41px;
+    font-size: 30px;
+    text-align: center;
+    color: #8c999f;
+    margin: 0 0 6px 0;
+    font-weight: 400;
+}
+
+
+.h1HeaderDetails{
+    line-height: 41px;
+    font-size: 30px;
+
+    color: #8c999f;
+    margin: 0 0 6px 0;
+    font-weight: 400;
+}
+.spanDetails{
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: #27b5fb;
+    margin-bottom: 21px;
+    display: block;
+}
+.readeMore{
+    font-size: 20px;
+    text-align: left;
+    margin: 0 0 26px 0;
+    display: inline-block;
+    color: #ffc800;
+    padding: 0 13px 0 0;
+}
+
+.header5Details{
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 23px;
+    text-align: left;
+    color: #8c999f;
+}
+.ulLi{
+    padding: 0 17px;
+    margin-bottom: 29px;
+
+}
+
+
+.wordsSide{
+    position: relative;
+    z-index: 1;
+    margin-left: -60px;
+    width: 739px;
+    background-color: rgba(148, 197, 214, 0.1);
+    float: left;
+    padding: 53px 98px
+}
+
+.Image{
+    
+        vertical-align: bottom;
+        max-width: 100%;
+        box-shadow: 7px 7px 20px 0 rgba(0, 0, 0, 0.2);
+        display: block;
+        height: auto;
+}
+
+.imageDiv{
+    
+        position: relative;
+        z-index: 2;
+        width: 450px;
+        display: table-cell;
+        vertical-align: middle;
+        height: 100%;   
+}
+
+.choose-rowlock {
+    margin-bottom: 50px;
+    display: table;
+    
+}
+.descriptionh4 {
+    text-align: left;
+    margin-bottom: 12px;
+}
+.choose-rowspan {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: #27b5fb;
+    margin-bottom: 21px;
+    display: block;
+}
+.choose-rowp {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 25px;
+    text-align: left;
+    color: #8c999f;
+}
+.choose-rowa {
+    font-size: 20px;
+    text-align: left;
+    margin: 0 0 26px 0;
+    display: inline-block;
+    color: #ffc800;
+    padding: 0 13px 0 0;
+    background: url(https://res.cloudinary.com/dt0sbcfc6/image/upload/v1522790806/denver/right-arrow.png) right center no-repeat;
+}
+.description {
+    position: relative;
+    z-index: 1;
+    margin-left: -60px;
+    width: 739px;
+    background-color: rgba(148, 197, 214, 0.1);
+    float: left;
+    padding: 53px 98px;
+}
+
+.choose-rowh5 {
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 23px;
+    text-align: left;
+    color: #8c999f;
+}
+
+
+
+
+
+
+
+.about-banner {
+    position: relative;
+    padding: 39px 0 36px 0;
+    /* background: url(../images/about-banner.png) left top no-repeat; */
+    background-size: cover;
+}
+.about-banner h1 {
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    letter-spacing: 0.1px;
+    text-align: left;
+    color: #ffffff;
+}
+
+.about-banner h1 {
+    height: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    letter-spacing: 0.1px;
+    text-align: left;
+    color: #ffffff;
+}
+.headernav2{
+    
+        font-size: 35px;
+        color: #27b5fb;
+    
+}
+
+.about-content .heading {
+    padding: 81px 0 91px;
+}
+
+.about-content .about-detail .about-right img {
+    margin-right: 59px;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.tets{
+    
+        font-size: 19px;
+        line-height: 34px;
+        color: #47545a;
+    
+}
+
+
+
+
+

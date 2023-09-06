@@ -1,0 +1,70 @@
+.heading {
+    padding-top: 84px;
+    padding-bottom: 64px;
+}
+ .heading h4 {
+    font-size: 30px;
+    text-align: center;
+    color: #8c999f;
+    font-weight: 400;
+}
+.heading p {
+    font-size: 14px;
+    line-height: 1.29;
+    color: #ffc800;
+    margin-top: 6px;
+}
+.change-your-lock:first-child {
+    margin-left: 0;
+}
+
+.change-your-lock {
+    margin-left: 36px;
+    margin-bottom: 30px;
+    width: 255px;
+    float: left;
+    box-shadow: 7px 7px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+ .content {
+    padding: 20px 18px;
+    text-align: left;
+}
+.content h3 {
+    font-weight: 400;
+    margin-bottom: 6px;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: left;
+    color: #3a4c5d;
+}
+
+.content span {
+    display: block;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 1.82;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #94c5d7;
+}
+
+.content p {
+    margin-top: 13px;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #8c999f;
+}
+
+.content a {
+    padding: 0 13px 0 0;
+    background: url(https://res.cloudinary.com/dt0sbcfc6/image/upload/v1522790806/denver/right-arrow.png) right center no-repeat;
+    margin-top: 16px;
+    display: inline-block;
+    font-size: 15px;
+    text-align: left;
+    color: #ffc800;
+}

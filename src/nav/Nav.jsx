@@ -4,6 +4,7 @@ import Socialbtn from "../components/btns/Socialbtn";
 import Logo from "../components/logo/Logo";
 import "../css/nav.css";
 import NavLinks from "./NavLinks";
+import PhoneNav from "./PhoneNav";
 
 function Nav() {
   return (
@@ -11,8 +12,12 @@ function Nav() {
       <div className="flexRow bet containerL topNav">
         <Logo/>
  <div className="flexRow center h100">
-       <Socialbtn/>  
-       <PhoneCall/>
+ <PhoneNav/>
+     <div className="displayNone">
+     <Socialbtn/>  
+      <PhoneCall/>
+     </div>
+      
 
        
        
@@ -21,9 +26,11 @@ function Nav() {
       </div>
       
  
-     <NavLinks/>
+    <div className="displayNone">
+    <NavLinks/>
+    </div>
 
-    
+ 
    
      
     </div>

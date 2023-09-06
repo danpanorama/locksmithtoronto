@@ -12,3 +12,191 @@ object-fit: cover;
 .h200vh{
     height: 200vh;
 }
+
+.gridAbout{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.detailsBannerSec{
+    
+        text-align: center;
+        margin-bottom: 76px;
+    
+}
+.detail {
+    padding: 59px 0 56px 0;
+}
+.oneDetaisBanner{
+    display: inline-block;
+    width: 200px;
+    margin: 0 28px 0 0;
+    vertical-align: top;
+}
+.imgBanner{
+    
+        margin-bottom: 27px;
+    
+}
+.h4Detais{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #3a4c5d;
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+}
+
+
+/* the home css from the other project  */
+
+.oneSquare{
+    padding: 15px 25px 15px 25px;
+    background-image: linear-gradient(#F84549, #DA3B3B);
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+.smallHeader{
+    font-weight: 400;
+    font-size: 1.3rem;
+
+}
+.headerH1{
+    font-size: 2.5rem;
+    font-weight: 400;
+
+}
+
+.btn{
+    padding: 10px 20px 10px 20px ;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+   
+}
+.sideA{
+    width: 514px;
+}
+.buttonNumber{
+    width: 70%;
+    min-height: 50px;
+    margin-top: 20px;
+ font-size: 2rem;
+ overflow: hidden;
+}
+.buttonPhone{
+   min-height: 50px;
+    width: 25%;
+    font-size: 2rem;
+    background-color: rgb(255, 174, 0);
+}
+
+.lineHeight{
+    line-height: 40px;
+}
+.span{
+    background-image: url('https://res.cloudinary.com/dt0sbcfc6/image/upload/v1522790801/denver/check-mark.png');
+    background-repeat: no-repeat;
+    padding-left: 20px;
+    object-fit: cover;
+    vertical-align: top;
+    text-align: left;
+}
+
+.heading {
+    margin-top: 47px;
+}
+.headingh4 {
+    font-size: 30px;
+    text-align: center;
+    color: #8c999f;
+    font-weight: 400;
+}
+
+
+
+
+
+/* locksmith table */
+
+
+
+.lock-smith-img {
+    width: 230px;
+    float: left;
+    margin-top: -86px;
+}
+
+.lock-smith-imgimg {
+    vertical-align: bottom;
+}
+
+.lock-smith-left-detail {
+    float: right;
+    width: 900px;
+}
+
+.lock-smith-left {
+    width: 288px;
+    float: left;
+    margin: 58px 1px;
+}
+
+.lock-smith-lefth3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    text-align: left;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+.lock-smith-right {
+    float: right;
+    margin: 36px 0;
+}
+
+.social-icon {
+    display: inline-block;
+    vertical-align: top;
+    padding: 9px 29.5px 5px 29.5px;
+    margin: 24px 21px 0 0;
+    border-right: solid 2px #d3e7ee;
+    border-left: solid 2px #d3e7ee;
+}
+.ull{
+    
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    
+}
+
+.ull  li {
+    display: inline-block;
+    margin: 0 32px 0 0;
+}
+.ull li:last-child {
+    margin-right: 0px;
+}
+.contact-detail {
+    margin-top: 34px;
+    margin-right: -3px;
+    vertical-align: top;
+    display: inline-block;
+    padding: 3px 0 5px 79px;
+    background: url(https://res.cloudinary.com/dt0sbcfc6/image/upload/v1522790801/denver/call-icon.png) left center no-repeat;
+}
+
+.contact-detail p {
+    font-size: 13px;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #ffffff;
+}
+
+ .contact-detail p span {
+    font-weight: 800;
+    font-size: 15px;
+}
