@@ -5,10 +5,12 @@ import Socialbtn from './Socialbtn';
 
 function SocialWithUs() {
   return (
-    <div className="flexRow center ">
+    <div className="flexRowToCol center ">
         <h1 className='displayNone' >SOCIAL WITH US & SAY HELLO </h1>
 
-        <Socialbtn  />
+       <div className="displayNone">
+       <Socialbtn  />
+       </div>
         <CallButtons/>
    
     </div>

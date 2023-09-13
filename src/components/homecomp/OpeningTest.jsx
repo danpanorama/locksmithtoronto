@@ -8,17 +8,17 @@ function OpeningTest() {
           <div className="header">
             <h1 className="headerH1 cw w80 marginBottom lineHeight">FRONT RANGE LOCKSMITH DENVER</h1>
 
-            <h3 className="smallHeader cw">
+            <h3 className="smallHeader cw displayNone">
               Locksmith in Denver, Colorado - 24/7 
             </h3>
-            <h3 className="smallHeader cw marginBottom">
+            <h3 className="smallHeader cw displayNone marginBottom">
             Service
             </h3>
             <div className="FourSquaresGrid ">
-              <div className="oneSquare">LOCKED KEYS IN CAR?</div>
-              <div className="oneSquare">LOCKED OUT OF HOUSE?</div>
-              <div className="oneSquare">NEED TO CHANGE LOCKS?</div>
-              <div className="oneSquare">MORE SERVICES?</div>
+              <div className="oneSquare wrapH1">LOCKED KEYS IN CAR?</div>
+              <div className="oneSquare wrapH1">LOCKED OUT OF HOUSE?</div>
+              <div className="oneSquare wrapH1">NEED TO CHANGE LOCKS?</div>
+              <div className="oneSquare wrapH1">MORE SERVICES?</div>
             </div>
           </div>
         </div>

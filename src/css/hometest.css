@@ -50,10 +50,12 @@
  overflow: hidden;
 }
 .buttonPhone{
-   min-height: 50px;
+    min-height: 50px;
+    margin-top: 20px;
     width: 25%;
     font-size: 2rem;
     background-color: rgb(255, 174, 0);
+    min-height: 50px; 
 }
 
 .lineHeight{
