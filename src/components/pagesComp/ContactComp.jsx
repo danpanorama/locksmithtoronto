@@ -28,11 +28,11 @@ function ContactComp() {
             </div>
 
             <div className="detail flexRow">
-            <span className='fa fa-phone'></span><a href="" className="aTag tag">frontrangelocksmith@gmail.com</a>
+            <span className='fa fa-phone'></span><a href="mailto:Cheetahlocksmithto@gmail.com" className="aTag tag">Cheetahlocksmithto@gmail.com</a>
             </div>
 
             <div className="detail flexRow">
-            <span className='fa fa-phone'></span><a href="" className="aTag tag">1257 Logan St #204, Denver</a>
+            {/* <span className='fa fa-phone'></span><a href="" className="aTag tag">1257 Logan St #204, Denver</a> */}
             </div>
           </div>
 

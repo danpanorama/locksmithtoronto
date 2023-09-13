@@ -8,9 +8,11 @@ function BottomFooter() {
     return (
         <div className="bottomFooter  ">
             <div className="containerL flexRowToCol reverse bet acenter ">
-                <p className="copyRights cw paddingTop10">all the rights belong to cheetah locksmith</p>
+  <div>
+  <p className="copyRights cw paddingTop10">all the rights belong to cheetah locksmith</p>
+<a href="mailto:Cheetahlocksmithto@gmail.com" className="email ">Cheetahlocksmithto@gmail.com</a>
 
-
+  </div>
                 <div className="socialButtons flexRowToCol h100 ">
                     <Socialbtn  />
                     <PhoneCall  class='cw' />

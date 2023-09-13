@@ -14,13 +14,13 @@ function NewNav() {
       <div className="containerL flexRow h100    bet center">
         <div className="flexRow center  marginAuto100">
           <Logo />
-          <NewLinks />
+          <NewLinks />   <PhoneNav />
         </div>
         <div className="displayNone">
         <Socialbtn />
         </div>
         <CallButtons />
-        <PhoneNav />
+     
       </div>
     </div>
   );

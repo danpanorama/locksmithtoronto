@@ -72,15 +72,27 @@ body {
       .navSumble{
 
       }
-      .openNavActive  {
-        width: 100% !important;
+      .oneSquare{
+        text-align: center;
+      }
+      .marginRight{
+        margin-right: 0 !important;
+      }
+      .NavBar{
 
+        margin-top: 0 !important;
+        padding-top: 0 !important;
+      }
+      .headerH1{
+font-size: 30px !important;
+      }
+      .navIn{
+    width: 98% !important;
       }
       .barNav{
-        display: flex !important;
-        flex-direction: row !important;
-        justify-content: flex-end !important;
+  
       }
+    
       .openImage{
         height: auto !important;
        }

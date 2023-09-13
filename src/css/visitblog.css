@@ -14,6 +14,13 @@
     color: #ffc800;
     margin-top: 6px;
 }
+.limit{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* number of lines to show */
+            line-clamp: 4; 
+    -webkit-box-orient: vertical;
+}
 .change-your-lock:first-child {
     margin-left: 0;
 }

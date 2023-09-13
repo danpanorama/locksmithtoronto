@@ -1,4 +1,5 @@
 import "../../css/hometest.css";
+import "../../css/home.css";
 
 function OpeningTest() {
   return (
@@ -6,12 +7,12 @@ function OpeningTest() {
       <div className="w70 flexRowToCol bet marginTop70 marginNonePhone">
         <div className="sideA ">
           <div className="header">
-            <h1 className="headerH1 cw w80 marginBottom lineHeight">FRONT RANGE LOCKSMITH DENVER</h1>
+            <h1 className="headerH1 cw w80 marginBottom lineHeight">CHEETAH LOCKSMITH DENVER</h1>
 
-            <h3 className="smallHeader cw displayNone">
-              Locksmith in Denver, Colorado - 24/7 
+            <h3 className="smallHeader cw wraph1">
+              Locksmith in toronto,ON Canada- 24/7 
             </h3>
-            <h3 className="smallHeader cw displayNone marginBottom">
+            <h3 className="smallHeader cw  marginBottom">
             Service
             </h3>
             <div className="FourSquaresGrid ">
@@ -37,7 +38,7 @@ function OpeningTest() {
                 <button className="buttonNumber btn marginRight10">
                     1561-235-1653
                 </button>
-                <button className="buttonPhone btn">
+                <button className="buttonPhone btnPhoneMedia btn">
 call
                 </button>
             </div>

@@ -14,11 +14,11 @@ function NavRoute() {
 
   return (
     <div className="">
-      <div className="TopNav displayPhone flexRow bet containerL">
+      {/* <div className="TopNav displayPhone flexRow bet containerL">
         
         <Socialbtn/>
         
-      </div>
+      </div> */}
       <Nav/>
 {/* <NewNav/> */}
 <Routes location={location} key={location.pathname} >

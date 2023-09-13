@@ -8,9 +8,6 @@ function NavLinks() {
         <div className="LinksList containerL h100 flexRow ">
             <NavLink to={'/'} className={'link'} >HOME</NavLink>
 <NavLink to={'/service'} className={'link serviceLink'} >SERVICES
-
-
-
 <div className="ListOfLinks flexCol ">
 <NavLink to={'/service'} className={'link1'} >SERVICES</NavLink>
 <NavLink to={'/service'} className={'link1'} >SERVICES</NavLink>
@@ -22,9 +19,9 @@ function NavLinks() {
 </div>
 </NavLink>
 
-            <NavLink className={'link'} >PRICES</NavLink>
+            {/* <NavLink className={'link'} >PRICES</NavLink> */}
             <NavLink to={'/about'} className={'link'} >ABOUT</NavLink>
-            <NavLink className={'link'} >BLOG</NavLink>
+            {/* <NavLink className={'link'} >BLOG</NavLink> */}
             <NavLink to={'/contact'} className={'link'} >CONTACT</NavLink>
             <NavLink to={'/service'} className={'link'} >SERVICE AREAS</NavLink>
            

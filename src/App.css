@@ -20,6 +20,9 @@
   .acenter{
     align-items: center;
   }
+  .marginTop50{
+    margin-top: 50px;
+  }
   .flexCol{
     display: flex;
     flex-direction: column;
@@ -150,4 +153,7 @@ textarea {
 }
 .w90{
 width: 90%;
+}
+.h100{
+  height: 100%;
 }

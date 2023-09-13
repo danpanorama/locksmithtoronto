@@ -10,29 +10,25 @@ import TopNav from "./TopNav";
 
 function Nav() {
   return (
-  <div className="barNav">
-      <div className="displayNone">
-      <div className="  NavBar   ">
-  <div className="containerL">
-  <div className="flexRow bet">
-      <Logo/>
-   <div className="flexRow">
-   <Socialbtn/>
-      <PhoneCall/>
-   </div>
+    <div className="barNav">
+      <div className="">
+        <div className="  NavBar   ">
+          <div className="containerL">
+            <div className="flexRow bet acenter navIn w100">
+              <Logo /> <PhoneNav />
+              <div className="flexRow displayNone">
+                <Socialbtn />
+                <PhoneCall />
+              </div>
+            </div>
+          </div>
+
+          <div className="LinksDIv displayNone ">
+            <NavLinks />
+          </div>
+        </div>
       </div>
-  </div>
-
-  <div className="LinksDIv ">
-    <NavLinks/>
-  </div>
-
-   
-      
     </div>
-    </div>
-    <PhoneNav/>
-  </div>
   );
 }
 

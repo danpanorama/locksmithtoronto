@@ -4,11 +4,11 @@
     text-align: left;
     color: #8c999f;
     margin-top: 81px;
-}
+} 
 
 
 .imgContact{
-    background-image: url('https://www.frontrangelocksmith.com/images/contact-banner.png');
+    background-image:linear-gradient(to right,#bd8f2c94,#bd8f2c6e), url('https://www.frontrangelocksmith.com/images/contact-banner.png');
 }
 .tag{
    

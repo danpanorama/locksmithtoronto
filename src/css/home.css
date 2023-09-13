@@ -203,3 +203,8 @@ object-fit: cover;
     font-weight: 800;
     font-size: 15px;
 }
+.btnPhoneMedia{
+    color: whitesmoke;
+    width: 60%;
+    
+}

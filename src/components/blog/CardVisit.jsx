@@ -9,7 +9,7 @@ function CardVisit(props) {
       <div className="content">
         <h3>{props.h3}</h3>
         <span>{props.span}</span>
-        <p>{props.text}</p>
+        <p className="limit" >{props.text}</p>
         <a href="">Read more</a>
       </div>
     </div>

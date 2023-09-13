@@ -1,11 +1,15 @@
 import "../../App.css";
 import "../../css/service.css";
+import Img1 from '../../images/keyfree.jpg'
 
 function ServiceSquare(props) {
+
+  
+
   return (
     <div className="OneSquare">
       <div className="imageDiv">
-        <img className="img imgService" src={props.img} alt="" />
+        <img className="img imgService" src={props.img  } alt="" />
       </div>
       <div className="header-fontService">{props.header}</div>
 
