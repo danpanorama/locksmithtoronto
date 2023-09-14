@@ -1,6 +1,7 @@
 import "../../App.css";
 import "../../css/service.css";
 import Img1 from '../../images/keyfree.jpg'
+import Img2 from '../../images/car-key.jpg'
 
 function ServiceSquare(props) {
 
