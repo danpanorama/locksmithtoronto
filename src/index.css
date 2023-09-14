@@ -45,6 +45,19 @@ body {
    
 
     } */
+
+
+    @media (max-width: 1140px){
+      .containerL{
+        width: 96% !important;
+        overflow-x: hidden;
+      
+      }
+      html{
+        font-size: 10px !important;
+      }
+    }
+
     @media (max-width: 640px){
      
       .displayPhone{

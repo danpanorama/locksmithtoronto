@@ -4,7 +4,7 @@ import "../../css/home.css";
 function OpeningTest() {
   return (
     <div className="openImage flexCol acenter ">
-      <div className="containerL flexRowToCol bet marginTop70 marginNonePhone">
+      <div className=" flexRowToCol bet marginTop70 marginNonePhone containerL">
         <div className="sideA ">
           <div className="header">
             <h1 className="headerH1 cw w80 marginBottom lineHeight">CHEETAH LOCKSMITH TORONTO</h1>
