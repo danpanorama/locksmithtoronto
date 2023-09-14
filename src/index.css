@@ -47,7 +47,7 @@ body {
     } */
 
 
-    @media (max-width: 1140px){
+    @media (max-width: 1240px){
       .containerL{
         width: 96% !important;
         overflow-x: hidden;
