@@ -208,3 +208,11 @@ object-fit: cover;
     width: 60%;
     
 }
+
+
+.cg{
+    color: yellowgreen;
+}
+.bg{
+    background-color: yellowgreen !important;
+}

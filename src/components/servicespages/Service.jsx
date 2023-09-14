@@ -10,7 +10,7 @@ function Service() {
   return (
     <div className="">
        <NavPages header={"OUR SERVICES"} class={'imageAbout'} />
-       <div className="containerL w70">
+       <div className="containerL ">
        <HeaderPage header={'Our Locksmith Services List'} />
    
        

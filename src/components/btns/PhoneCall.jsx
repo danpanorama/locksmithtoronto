@@ -4,7 +4,7 @@ import '../../css/btn.css';
 function PhoneCall(props) {
   return (
     <div className="phonCallBox flexRow center">
-      <div className="PhoneCircle fa fa-phone  ">
+      <div className="PhoneCircle fa fa-phone bg  ">
 
       </div>
       <div className={"DetailsLine "+props.class}>

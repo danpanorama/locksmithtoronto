@@ -4,10 +4,10 @@ import "../../css/home.css";
 function OpeningTest() {
   return (
     <div className="openImage flexCol acenter ">
-      <div className="w70 flexRowToCol bet marginTop70 marginNonePhone">
+      <div className="containerL flexRowToCol bet marginTop70 marginNonePhone">
         <div className="sideA ">
           <div className="header">
-            <h1 className="headerH1 cw w80 marginBottom lineHeight">CHEETAH LOCKSMITH DENVER</h1>
+            <h1 className="headerH1 cw w80 marginBottom lineHeight">CHEETAH LOCKSMITH TORONTO</h1>
 
             <h3 className="smallHeader cw wraph1">
               Locksmith in toronto,ON Canada- 24/7 
@@ -27,7 +27,7 @@ function OpeningTest() {
 
 
         <div className="sideB ">
-            <h1 className="headerH1 cy ">CALL US 24/7!</h1>
+            <h1 className="headerH1 cg ">CALL US 24/7!</h1>
             <h3 className="smallHeader cw displayNone">
             Locked out of your car? Need your locks changed?
             </h3>
@@ -38,7 +38,7 @@ function OpeningTest() {
                 <button className="buttonNumber btn marginRight10">
                     1561-235-1653
                 </button>
-                <button className="buttonPhone btnPhoneMedia btn">
+                <button className="buttonPhone bg btnPhoneMedia btn">
 call
                 </button>
             </div>
