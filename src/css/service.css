@@ -32,3 +32,27 @@
 .margr{
   width: 70%;  
 }
+
+.imageServiseDiv {
+    width: 400px;
+    margin-top: -173px;
+    font-size: 0;
+}
+
+.marginLeft{
+    margin-left: 250px;
+}
+.bgBlue{
+    background-color: #1a91cb;
+}
+.textText{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 21px;
+        color: #000;
+        line-height: 35px;
+        font-weight: 600;
+}
+.content2{
+    width: 750px;
+}

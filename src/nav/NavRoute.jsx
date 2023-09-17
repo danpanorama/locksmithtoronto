@@ -8,6 +8,7 @@ import NewNav from './NewNav';
 import Socialbtn from '../components/btns/Socialbtn';
 import CallButtons from '../components/btns/CallButtons';
 import ServiceScreen from '../pages/ServiceScreen';
+import ServiceDinamic from '../pages/ServiceDinamic';
 
 function NavRoute() {
   const location =useLocation()
@@ -29,6 +30,7 @@ function NavRoute() {
 
       <Route path="/contact" element={<ContactScreen />} exact />
       <Route path="/service" element={<ServiceScreen />} exact />
+      <Route path="/servicepage" element={<ServiceDinamic />} exact />
 
 
         {/* <Routes path="/404" element={<Nofuondpage/>} exact/> */}

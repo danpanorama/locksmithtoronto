@@ -68,11 +68,7 @@ display: block;
    color: red;
  
 }
-.link1:hover{
-   
-   color: red;
- 
-}
+
 .navPages{
     width: 100%;
    
@@ -203,7 +199,7 @@ transition: all .3s ease;
     position: relative;
     width: 100%;
 }
-.serviceLink{
+.hoverLinks{
     position: relative;
 }
 .serviceLink:hover ~ .ListOfLinks{
@@ -217,11 +213,42 @@ display: flex;
 .ListOfLinks{
     display: none;
     height: 0;
-    position: absolute;
-    top: 90%;
-    left: 0;
-    background-color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    width: 100% !important;
+    
+    background-color:#6ba3d3;
+
+    width: 300px !important;
 }
+
+.hoverLinks:hover ~ .ListOfLinks{
+height: auto;
+display: flex;
+flex-direction: column;
+}
+.hoverLinks{
+    z-index: 999999;
+
+}
+.ListOfLinks:hover{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    }
+
+    .link1{
+width: 100%;
+margin-bottom: 10px;
+padding-bottom: 5px;
+
+    }
+    .link1:hover{
+        border-bottom: 4px solid yellow;
+       color: red;
+       background-color: #1A91CB;
+     
+    }
+
+    .paadingHeaderService{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
