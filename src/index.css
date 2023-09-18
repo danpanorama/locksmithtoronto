@@ -13,11 +13,20 @@ body {
   overflow-x: hidden !important;
 
 }
+.w50{
+  width: 50%;
+}
+.imageMaxWith{
+  max-width: 100%;
+}
 .paddingTop10{
   padding-top: 10px;
 }
 .displayPhone{
   display: none !important;
+}
+.rowRevers{
+  flex-direction: row-reverse !important;
 }
 /* @media (min-width: 1280px){
   .containerL {
@@ -74,6 +83,36 @@ body {
         overflow-x: hidden;
       
       }
+      .marb{
+        margin-bottom: 40px !important;
+      }
+      .containerService {
+        width: 100% !important;
+        margin: 0 auto;
+    }
+    .w50{
+      width: 97% !important;
+      
+    }
+      .paadingHeaderService {
+        
+        padding-bottom: 0 !important;
+    }
+      .content2{
+        width: auto !important;
+      }
+      .paddphone{
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      .imageServiseDiv {
+        width: auto !important;
+        margin-top: 0 !important;
+        font-size: 0;
+    }
+      .marginLeft {
+        margin-left: 0 !important;
+    }
       .phoneNav{
         width: 100% !important;
 
