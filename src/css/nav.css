@@ -194,7 +194,7 @@ transition: all .3s ease;
     margin-bottom: 20px;
     width: 10%;
   
-}
+} 
 .phoneNav{
     position: relative;
     width: 100%;
@@ -209,21 +209,16 @@ display: flex;
 
 .link12{
     margin-top: 20px;
+   
 }
 .ListOfLinks{
     display: none;
     height: 0;
-    
     background-color:#6ba3d3;
-
     width: 300px !important;
 }
 
-.hoverLinks:hover ~ .ListOfLinks{
-height: auto;
-display: flex;
-flex-direction: column;
-}
+
 .hoverLinks{
     z-index: 999999;
 
@@ -237,12 +232,13 @@ flex-direction: column;
 
     .link1{
 width: 100%;
-margin-bottom: 10px;
-padding-bottom: 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 4px;
 
     }
     .link1:hover{
-        border-bottom: 4px solid yellow;
+       
        color: red;
        background-color: #1A91CB;
      

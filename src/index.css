@@ -45,7 +45,7 @@ body {
    
 
     } */
-
+   
 
     @media (max-width: 1240px){
       .containerL{
@@ -54,7 +54,7 @@ body {
       
       }
       html{
-        font-size: 10px !important;
+        font-size: 13px !important;
       }
     }
 
@@ -271,6 +271,15 @@ font-size: 30px !important;
   .OneSquare {
     padding: 10px 20px 40px 20px !important;
   }
+      }
+
+      @media (max-height: 840px){
+        .openImage{
+         
+          height: 70vh !important;
+         
+      }
+  
       }
   
     .containerL {
