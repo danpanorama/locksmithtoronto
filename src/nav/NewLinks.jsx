@@ -9,9 +9,9 @@ function NewLinks() {
     <div className="   marginLeft50 h100 linksNav displayNone">
         <div className="   flexRow height100 center  ">
             <NavLink to={'/'} className={'link1'} >HOME</NavLink>
-            <div className="linkDiv   ">
+          
             <NavLink className={'link1 serviceLink'} to={'/service'} >SERVICES</NavLink>
-                <div className={'ServiceLinks flexCol  bcYellow '}>
+                 <div className={'ServiceLinks flexCol  bcYellow '}>
                 <NavLink className={'link12'} to={'/service'} >SERVICES</NavLink>
                 <NavLink className={'link12'} to={'/service'} >SERVICES</NavLink>
                 <NavLink className={'link12'} to={'/service'} >SERVICES</NavLink>
@@ -20,7 +20,7 @@ function NewLinks() {
                 <NavLink className={'link12'} to={'/service'} >SERVICES</NavLink>
 
                 </div>
-            </div>
+            
             <NavLink to={'/about'} className={'link1'} >ABOUT</NavLink>
             <NavLink className={'link1'} >BLOG</NavLink>
             <NavLink to={'/contact'} className={'link1'} >CONTACT</NavLink>

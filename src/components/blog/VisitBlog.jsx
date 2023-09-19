@@ -5,7 +5,7 @@ import CardVisit from "./CardVisit";
 function VisitBlog() {
   return (
     <div className=" ">
-      <div className="heading">
+      <div className="heading flexCol center">
         <h4>Visit our blog</h4>
         <p>Daily home security tips, lock comparisons and more.</p>
       </div>

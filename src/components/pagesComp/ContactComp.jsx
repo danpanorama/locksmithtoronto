@@ -32,7 +32,7 @@ function ContactComp() {
             </div>
 
             <div className="detail flexRow">
-            {/* <span className='fa fa-phone'></span><a href="" className="aTag tag">1257 Logan St #204, Denver</a> */}
+            {/* <span className='fa fa-phone'></span><a href="" className="aTag tag">1257 Logan St #204, toronto</a> */}
             </div>
           </div>
 
