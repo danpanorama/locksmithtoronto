@@ -42,8 +42,20 @@
 .marginLeft{
     margin-left: 250px;
 }
+.tapadd{
+    padding: 0 40px;
+}
+.heading3{
+    font-size: 33px;
+    color: #1a91cb;
+    margin-bottom: 20px;
+}
+.containerService{
+    width: 80%;
+    margin: 0 auto;
+}
 .bgBlue{
-    background-color: #1a91cb;
+    background-color:#6fb6da;
 }
 .textText{
     padding-top: 30px;
@@ -55,4 +67,10 @@
 }
 .content2{
     width: 750px;
+}
+
+.pserv{
+    font-size: 20px;
+    line-height: 41px;
+    color: #000000;
 }

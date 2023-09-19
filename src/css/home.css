@@ -54,7 +54,7 @@ object-fit: cover;
 
 .oneSquare{
     padding: 15px 25px 15px 25px;
-    background-image: linear-gradient(#F84549, #DA3B3B);
+    background-image: linear-gradient(#07186d, #051542);
     border: none;
     color: white;
     border-radius: 5px;

@@ -14,7 +14,7 @@ function Service() {
        <HeaderPage header={'Our Locksmith Services List'} />
    
        
-       <p className="textP TextMargin">Choose the service you need from the list below to get more information about availability and pricing. At Front Range Locksmith we offer all of our services 24/7 with no additional cost for after hour or weekend service. If you need immediate service, our average arrival time is 20 minutes. You can also schedule an appointment for a later time\day through our contact form or by phone: 720-439-4081. Our trip charge is $19, but we usually wave it for residential and commercial work.</p>
+       <p className="textP TextMargin">Choose the service you need from the list below to get more information about availability and pricing. At Cheetah Locksmith we offer all of our services 24/7 with no additional cost for after hour or weekend service. If you need immediate service, our average arrival time is 20 minutes. You can also schedule an appointment for a later time\day through our contact form or by phone: 720-439-4081. Our trip charge is $19, but we usually wave it for residential and commercial work.</p>
 
    
 <div className="flexRowToCol  bet ">
