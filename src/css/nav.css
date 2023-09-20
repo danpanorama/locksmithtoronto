@@ -1,12 +1,16 @@
 .NavBar{
     margin-top: 25px;
     padding-top: 10px;
+    overflow-y: hidden;
 }
 .colorOrange{
     color: #BD8F2C;
 }
 .bcOrange{
-    background-color:rgb(1, 1, 49);
+
+    background-image: linear-gradient(#d6c209, #d59707);
+
+    /* background-color:rgb(1, 1, 49); */
 }
 .navLinks{
    
@@ -199,42 +203,14 @@ transition: all .3s ease;
     position: relative;
     width: 100%;
 }
-.hoverLinks{
-    position: relative;
-}
-.serviceLink:hover ~ .ListOfLinks{
-height: auto;
-display: flex;
 
-}
 
 .link12{
     margin-top: 20px;
    
 }
-.ListOfLinks{
-    display: none;
-    height: 0;
-    background-color:#6ba3d3;
-    width: 300px;
-
-}
-.ServiceLinks{
-    width: 300px !important;
-
-}
 
 
-.hoverLinks{
-    z-index: 999999;
-
-}
-.ListOfLinks:hover{
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    }
 
     .link1{
 width: 100%;

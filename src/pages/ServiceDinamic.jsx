@@ -30,17 +30,17 @@ function ServiceDinamic(props) {
       <ImageWithText text={location.state.textHeader} />
 
       <div className="containerService">
-     
-
-      <RowSection text={''} img={location.state.imageRow1} class={''} />
 
 
-    <RowSection header={location.state.headerRow2} text={location.state.textRow2} img={location.state.image2} class={'rowRevers'} />
+        <RowSection text={''} img={location.state.imageRow1} class={''} />
 
-    <RowSection header={location.state.headerRow3} text={location.state.textRow3} img={location.state.image3} class={''} />
 
-    <RowSection header={location.state.headerRow4} text={location.state.textRow4} img={location.state.image4} class={'rowRevers'} />
-    <RowSection header={location.state.headerRow5} text={location.state.textRow5} img={location.state.image5} class={''} />
+        <RowSection header={location.state.headerRow2} text={location.state.textRow2} img={location.state.image2} class={'rowRevers'} />
+
+        <RowSection header={location.state.headerRow3} text={location.state.textRow3} img={location.state.image3} class={''} />
+
+        <RowSection header={location.state.headerRow4} text={location.state.textRow4} img={location.state.image4} class={'rowRevers'} />
+        <RowSection header={location.state.headerRow5} text={location.state.textRow5} img={location.state.image5} class={''} />
 
       </div>
     </div>

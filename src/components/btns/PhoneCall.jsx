@@ -9,7 +9,7 @@ function PhoneCall(props) {
       </div>
       <div className={"DetailsLine "+props.class}>
         <h3>24/7<span className='calltext'>EMERGENCY LINE</span></h3>
-        <h3 className="phoneNUMBER">765-634-6234</h3>
+        <h3 className="phoneNUMBER"> <a href="tel:+1(647)2894980">765-634-6234</a> </h3>
       </div>
     
     </div>
