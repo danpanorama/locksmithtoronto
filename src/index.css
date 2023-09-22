@@ -72,7 +72,14 @@ body {
       .displayPhone{
         display: block !important;
       }
-  
+      .FourSquaresGrid{
+        grid-template-columns: 1fr !important;
+        max-width: 100%;
+        gap: 20px !important;
+        }
+  .marginTop25{
+    margin-top: 10px !important;
+  }
       }
 
     
@@ -83,6 +90,14 @@ body {
         overflow-x: hidden;
       
       }
+      .phonebig{
+        min-width: 200px;
+        font-size: 22px;
+      }
+      .imgBanner{
+        max-width: 100px !important;
+        max-height: 100px !important;
+    }
       .marb{
         margin-bottom: 40px !important;
       }
@@ -148,10 +163,7 @@ font-size: 30px !important;
       .openImage{
         height: auto !important;
        }
-       .FourSquaresGrid{
-        grid-template-columns: 1fr !important;
-        max-width: 100%;
-        }
+       
         .sideA {
           width: 100% !important;
         }
@@ -174,6 +186,7 @@ font-size: 30px !important;
         .blue-btn{
           padding: 15px 30px !important;
           width: auto !important;
+          
         }
         .buttonPhone{
           width: 50% !important;
@@ -299,8 +312,8 @@ font-size: 30px !important;
       max-height: 200px;
      }
      .phoneBTN{
-    
-     font-size: .8rem !important;
+    background-color: yellowgreen !important;
+     font-size: 2rem !important;
     
   
   }.revers{
@@ -315,7 +328,7 @@ font-size: 30px !important;
       @media (max-height: 840px){
         .openImage{
          
-          height: 70vh !important;
+          height: auto!important;
          
       }
   

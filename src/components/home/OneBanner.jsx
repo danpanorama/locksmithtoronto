@@ -7,6 +7,7 @@ import Img3 from '../../images/trust.jpeg'
 import Img4 from '../../images/wheel.jpeg'
 
 import Img5 from '../../images/wheel25.jpeg'
+import Img6 from '../../images/clock.jpeg'
 
 
 function OneBanner(props) {
@@ -17,6 +18,7 @@ function OneBanner(props) {
         (props.img == '5')?(Img3):
         (props.img == '4')?(Img1):
         (props.img == '3')?(Img5):
+        (props.img == '6')?(Img6):
         ('')
         
         

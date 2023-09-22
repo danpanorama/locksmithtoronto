@@ -36,6 +36,9 @@
 .socialBtn:last-child{
    margin-right: 0;
 }
+.marginRight12{
+    margin-right: 20px;
+}
 .facebook{
 background-color: #3B5998;
 }
@@ -62,7 +65,7 @@ background-color: #3B5998;
 .phoneBTN{
     padding: 10px 20px 10px 20px;
     border-radius: 25px;
-   
+   color: white;
    font-size: 1rem;
    font-weight: 400;
 
@@ -117,5 +120,5 @@ a{
     font-weight: bold;
     text-align: center;
     color: #ffffff;
-    background-color: #27b5fb;
+    background-color: yellowgreen;
 }

@@ -12,20 +12,20 @@ function NavDropdown() {
     <div className="ListOfLinks flexCol ">
     
     <Link to={'/servicepage'} state={{
-      header:'Locked Keys in Car in Denver, CO',
-      headerBlue:'Car Opening Service in Denver',
-      textHeader:"Did you lock your key in your car in Denver or the surrounding area? You came to the right place. We will get you back in in no time. We offer car opening emergency service 24 hours a day 7 days a week. All of our locksmiths are highly trained professionals with years of experience opening cars. If your keys are locked in the trunk and the trunk release button doesn't work, we can still unlock it with our tools, damage free."}
+      header:'Locked Keys in Car in toronto, CO',
+      headerBlue:'Car Opening Service in toronto',
+      textHeader:"Did you lock your key in your car in toronto or the surrounding area? You came to the right place. We will get you back in in no time. We offer car opening emergency service 24 hours a day 7 days a week. All of our locksmiths are highly trained professionals with years of experience opening cars. If your keys are locked in the trunk and the trunk release button doesn't work, we can still unlock it with our tools, damage free."}
       } className={'link1'} >CAR LOCKOUT</Link>
     
     
     <Link to={'/servicepage'} 
-    state={{header:'Locked Out of House in Denver, CO',
-    headerBlue:'Locked Out of House in Denver',
-    textHeader:"Are you locked out of your house in Denver or the surrounding area? We can be there to unlock your door in 20 minutes or less, 24 hours a day, 7 days a week. Best Prices Guaranteed!",
+    state={{header:'Locked Out of House in toronto, CO',
+    headerBlue:'Locked Out of House in toronto',
+    textHeader:"Are you locked out of your house in toronto or the surrounding area? We can be there to unlock your door in 20 minutes or less, 24 hours a day, 7 days a week. Best Prices Guaranteed!",
     imageRow1:" https://www.frontrangelocksmith.com/images/denver-skyline.jpeg",
     
     headerRow2:'How soon can we be there?',
-    textRow2:"20 minutes or less. During the day our locksmiths are scattered around Denver and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Denver with the lowest arrival times.",
+    textRow2:"20 minutes or less. During the day our locksmiths are scattered around toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in toronto with the lowest arrival times.",
     image2:"https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
     
     image3:'https://www.frontrangelocksmith.com/images/man-thumbnail-2.png',

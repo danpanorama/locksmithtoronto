@@ -8,9 +8,9 @@ function DetailsBanner() {
    
     <div className="bannerAbout gridAbout detailsBannerSec ">
         <OneBanner 
-        img={'1'} 
-        header={'20 MINUTES HELP!'}
-        text={"20 minutes is the most you'll wait"}
+        img={'3'} 
+        header={'25 MINUTES HELP!'}
+        text={"25 minutes is the most you'll wait"}
         />
         <OneBanner 
         img={'2'} 
@@ -18,7 +18,7 @@ function DetailsBanner() {
         text={"We work all over the Denver-metro area"}
         />
          <OneBanner 
-        img={'3'} 
+        img={'6'} 
         header={'AVAILABLE 24/7'}
         text={"All of our services are 24 hours a day, 7 days a week"}
         />

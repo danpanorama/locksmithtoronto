@@ -129,8 +129,9 @@ color: white;
 
 
 .logoDiv{
-    max-width:100px;
-    max-height: 100px;
+    max-width:150px;
+    max-height: 150px;
+    overflow: hidden;
 }
 .imgLogo{
     height: 100%;
