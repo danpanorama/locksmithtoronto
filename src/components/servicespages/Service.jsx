@@ -14,11 +14,12 @@ function Service() {
        <HeaderPage header={'Our Locksmith Services List'} />
    
        
-       <p className="textP TextMargin">Choose the service you need from the list below to get more information about availability and pricing. At Cheetah Locksmith we offer all of our services 24/7 with no additional cost for after hour or weekend service. If you need immediate service, our average arrival time is 20 minutes. You can also schedule an appointment for a later time\day through our contact form or by phone: 720-439-4081. Our trip charge is $19, but we usually wave it for residential and commercial work.</p>
+       <p className="textP TextMargin">Choose the service you need from the list below to get more information about availability and pricing. At Cheetah Locksmith we offer all of our services 24/7 with no additional cost for after hour or weekend service. If you need immediate service, our average arrival time is 20 minutes. You can also schedule an appointment for a later time\day through our contact form.</p>
 
    
 <div className="flexRowToCol  bet ">
-      <ServiceSquare img={'https://www.frontrangelocksmith.com/images/house.png'} header={'Car Locksmith Service'} text='We have vast experience with all years, makes and models. We also service all types of trucks, motorcycles and buses.' linkList={['Car Unlock','Lost Car Key Replacement','FOB Replacement','Car Key Copy and Program','Broken Car Key Extractions','Ignition Change\Repair Service','Motorcycle Key Replacements','Trunk Unlock']} />
+      <ServiceSquare 
+      img={'https://www.frontrangelocksmith.com/images/house.png'} header={'Car Locksmith Service'} text='We have vast experience with all years, makes and models. We also service all types of trucks, motorcycles and buses.' linkList={['Car Unlock','Trunk Unlock']} />
     <ServiceSquare img={'https://www.frontrangelocksmith.com/images/car.png'} header={'House Locksmith Services'}  
     text='We offer a complete and comprehensive house locksmith service for any lock related service you need around the house.' 
     linkList={['House Unlock','Lock Change Service','Lock Rekey Service'

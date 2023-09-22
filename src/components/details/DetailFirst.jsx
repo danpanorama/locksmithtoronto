@@ -1,5 +1,6 @@
 import "../../css/home.css";
 import "../../css/about.css";
+import { Link } from "react-router-dom";
 
 function DetailFirst(props) {
   return (
@@ -17,9 +18,16 @@ function DetailFirst(props) {
     <li>Our team will dispatch a skilled locksmith to your location in just a matter of minutes.</li>
 </ul>
 <h5 className="header5Details">It is THAT simple!</h5>
-<a href="" className="readeMore">
+<Link to={'/servicepage'} state={{
+      header:'Locked Keys in Car in toronto, ON',
+      headerBlue:'Car Opening Service in toronto',
+      textHeader:"Did you lock your key in your car in toronto or the surrounding area? You came to the right place. We will get you back in in no time. We offer car opening emergency service 24 hours a day 7 days a week. All of our locksmiths are highly trained professionals with years of experience opening cars. If your keys are locked in the trunk and the trunk release button doesn't work, we can still unlock it with our tools, damage free."}
+      }>
     Read more
-</a>
+
+
+
+</Link>
 </div>
    
     </div>

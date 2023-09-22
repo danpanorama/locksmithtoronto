@@ -14,8 +14,8 @@ function DetailsBanner() {
         />
         <OneBanner 
         img={'2'} 
-        header={'DENVER-METRO AREA'}
-        text={"We work all over the Denver-metro area"}
+        header={'TORONTO-ON AREA'}
+        text={"We work all over the Toronto-ON area"}
         />
          <OneBanner 
         img={'6'} 

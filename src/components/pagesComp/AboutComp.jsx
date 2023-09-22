@@ -10,7 +10,7 @@ function AboutComp() {
     <div className="">
       <NavPages header={"ABOUT US"} class={"imageAbout"} />
       <div className="containerL">
-        <HeaderPage header={"A trusted toronto, Colorado locksmith company."} />
+        <HeaderPage header={"A trusted toronto, ON locksmith company."} />
         <ImageText
           img={"https://www.frontrangelocksmith.com/images/about-thumbnail.png"}
           text={

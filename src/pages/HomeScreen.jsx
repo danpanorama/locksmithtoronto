@@ -22,7 +22,7 @@ function HomeScreen() {
 
         <ButtonsSec />
         <DetailFirst />
-        <DetailRow class={'reverse'} Header={"Forgot your keys inside your home or flat? Don't Worry!"} Span={'At Cheetah Locksmith Denver we can unlock any lock in a non destructive way, ensuring you will get back in quickly with no damage to the door.'} active={true} pText={"We can help you get back in without breaking your lock at Cheetah Locksmith Locksmith Denver. Our skilled locksmiths at Cheetah Locksmith Locksmith are masters of lock-picking and can open almost any lock in no time. Picking a lock does not harm it, so you can keep using the same lock after we let you in. In some cases, when the lock is very difficult to pick, we may need to drill it. Drilling a lock will not damage your door, but it will make the lock useless. If we had to drill your lock we will always be able to install a new one for you."} image={'1'} />
+        <DetailRow class={'reverse'} Header={"Forgot your keys inside your home or flat? Don't Worry!"} Span={'At Cheetah Locksmith toronto we can unlock any lock in a non destructive way, ensuring you will get back in quickly with no damage to the door.'} active={true} pText={"We can help you get back in without breaking your lock at Cheetah Locksmith  toronto. Our skilled locksmiths at Cheetah Locksmith Locksmith are masters of lock-picking and can open almost any lock in no time. Picking a lock does not harm it, so you can keep using the same lock after we let you in. In some cases, when the lock is very difficult to pick, we may need to drill it. Drilling a lock will not damage your door, but it will make the lock useless. If we had to drill your lock we will always be able to install a new one for you."} image={'1'} />
 
         <DetailRow
           Header={"Looking to Replace or Rekey Your Locks? We've Got You Covered."}
@@ -30,7 +30,11 @@ function HomeScreen() {
           active={false}
 
           pText={"solution that suits both your security requirements and budget.From moderate security locks to high-security options and keyless entry systems, we've got the right match for you. If all you need is a rekeying service, we'll efficiently switch your old key to a new one while retaining your existing hardware. Plus, we offer same-day rekeying at no extra charge, and each lock change or rekeying comes with two complimentary keys. If you require extra copies, just let us know, and we'll be happy to make them on the spot"}
-          image={'2'} />
+          image={'2'}
+          
+          
+          
+          />
 
 
         <DetailRow

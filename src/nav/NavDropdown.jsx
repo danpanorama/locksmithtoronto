@@ -12,14 +12,14 @@ function NavDropdown() {
     <div className="ListOfLinks flexCol ">
     
     <Link to={'/servicepage'} state={{
-      header:'Locked Keys in Car in toronto, CO',
+      header:'Locked Keys in Car in toronto, ON',
       headerBlue:'Car Opening Service in toronto',
       textHeader:"Did you lock your key in your car in toronto or the surrounding area? You came to the right place. We will get you back in in no time. We offer car opening emergency service 24 hours a day 7 days a week. All of our locksmiths are highly trained professionals with years of experience opening cars. If your keys are locked in the trunk and the trunk release button doesn't work, we can still unlock it with our tools, damage free."}
       } className={'link1'} >CAR LOCKOUT</Link>
     
     
     <Link to={'/servicepage'} 
-    state={{header:'Locked Out of House in toronto, CO',
+    state={{header:'Locked Out of House in toronto, ON',
     headerBlue:'Locked Out of House in toronto',
     textHeader:"Are you locked out of your house in toronto or the surrounding area? We can be there to unlock your door in 20 minutes or less, 24 hours a day, 7 days a week. Best Prices Guaranteed!",
     imageRow1:" https://www.frontrangelocksmith.com/images/denver-skyline.jpeg",
