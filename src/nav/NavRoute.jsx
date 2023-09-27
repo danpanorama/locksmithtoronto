@@ -9,6 +9,7 @@ import Socialbtn from '../components/btns/Socialbtn';
 import CallButtons from '../components/btns/CallButtons';
 import ServiceScreen from '../pages/ServiceScreen';
 import ServiceDinamic from '../pages/ServiceDinamic';
+import Test from '../pages/Test';
 
 function NavRoute() {
   const location =useLocation()
@@ -27,6 +28,7 @@ function NavRoute() {
       <Route path="/" element={<HomeScreen />} exact />
  
       <Route path="/about" element={<AboutScreen />} exact />
+      <Route path="/test" element={<Test />} exact />
 
       <Route path="/contact" element={<ContactScreen />} exact />
       <Route path="/service" element={<ServiceScreen />} exact />
