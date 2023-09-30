@@ -90,14 +90,15 @@ body {
         overflow-x: hidden;
       
       }
+      .imgBanner{
+        max-width: 200px !important;
+        max-height: 200px !important;
+      }
       .phonebig{
         min-width: 200px;
         font-size: 22px;
       }
-      .imgBanner{
-        max-width: 100px !important;
-        max-height: 100px !important;
-    }
+     
       .marb{
         margin-bottom: 40px !important;
       }
@@ -178,7 +179,7 @@ font-size: 30px !important;
         .ButtonsCall{
           display: flex !important;
           flex-direction: row !important;
-          justify-content: space-between !important;
+          justify-content: center !important;
         }
         .imgBanner{
           margin-bottom: 0 !important;
@@ -189,11 +190,15 @@ font-size: 30px !important;
           
         }
         .buttonPhone{
-          width: 50% !important;
-          font-size: inherit !important;
+          width: 80% !important;
+          font-size: 25px!important;
           min-height: auto !important;
           padding: 0 !important;
-          
+          min-height: 40px !important;
+
+        }
+        .callusy{
+          text-align: center;
         }
         .w70{
           width: 90% !important;
@@ -261,7 +266,7 @@ font-size: 30px !important;
   width: auto !important;
  
   margin: 0 !important; 
-  margin-bottom: 40px !important;
+  margin-bottom: 10px !important;
 }
 .marginNonePhone{
   margin-top: 10px !important;

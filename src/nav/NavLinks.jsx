@@ -9,6 +9,7 @@ function NavLinks() {
     <div className="navLinks flexCol center bcOrange">
         <div className="LinksList containerL h100 flexRow ">
             <NavLink to={'/'} className={'link'} >HOME</NavLink>
+
 <NavDropdown/>
 
             {/* <NavLink className={'link'} >PRICES</NavLink> */}

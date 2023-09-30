@@ -1,5 +1,6 @@
 import '../../App.css';
 import '../../css/nav.css';
+import Toronto from '../../images/toronto.jpg'
 
 
 function TextImage(props) {
@@ -13,7 +14,7 @@ function TextImage(props) {
             <p className="textP">{props.text}</p>
         </div>
         <div className="imgDiv ">
-            <img src={props.img} alt="" className="img" />
+            <img src={props.img ? props.img : Toronto} alt="" className={"img  " + props.torontoclass} />
         </div>
         
 
