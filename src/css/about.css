@@ -108,7 +108,7 @@
     font-size: 16px;
     line-height: 24px;
     text-align: left;
-    color: #27b5fb;
+    color: #ffc800;
     margin-bottom: 21px;
     display: block;
 }
@@ -140,7 +140,7 @@
     z-index: 1;
     margin-left: -60px;
     width: 739px;
-    background-color: rgba(148, 197, 214, 0.1);
+    background-color: rgba(216, 229, 78, 0.1);
     float: left;
     padding: 53px 98px
 }
@@ -202,7 +202,7 @@
     z-index: 1;
     margin-left: -60px;
     width: 739px;
-    background-color: rgba(148, 197, 214, 0.1);
+    background-color: rgba(248, 252, 5, 0.123);
     float: left;
     padding: 53px 98px;
 }
