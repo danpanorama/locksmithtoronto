@@ -31,6 +31,7 @@ function DetailsBanner() {
         img={'5'} 
         header={'TRUSTED COMPANY'}
         text={"Licensed and certified"}
+        class={'gitcentert'}
         />
      
     </div> 

@@ -12,7 +12,7 @@ import Img6 from '../../images/clock.jpeg'
 
 function OneBanner(props) {
   return (
-    <div className="flexCol center oneDetaisBanner">
+    <div className={"flexCol center oneDetaisBanner " +props.class}>
         <img src={((props.img == '1')?(Img4):
         (props.img == '2')?(Img2):
         (props.img == '5')?(Img3):
