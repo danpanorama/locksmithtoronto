@@ -33,7 +33,8 @@ function AboutComp() {
           1500 students.
         </p>
         <TextImage
-          img="https://www.frontrangelocksmith.com/images/about-thumbnail-2.png"
+          img=""
+          torontoclass={'torontoclass'}
           text="Ultimately, our purpose revolves around your happiness. We aim to assure you that, within the toronto metro, you possess a trustworthy ally should you find yourself stranded at your car or home during the late hours. Someone genuinely concerned about your security when altering or rekeying locks. A 24/7 resource for inquiries related to your home or business safety. Upholding this mission, we've achieved an esteemed A+ rating from the BBB and garnered numerous 5-star reviews on platforms like Google, Yelp, and Facebook."
           boxHeader={"Placing customer satisfaction at the core of our values."}
         />

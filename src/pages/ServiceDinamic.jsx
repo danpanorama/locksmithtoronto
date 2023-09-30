@@ -8,6 +8,8 @@ import ImageWithText from "../components/pagesComp/ImageWithText";
 import DetailRow from "../components/details/DetailRow";
 import RowSection from "../components/servicespages/RowSection";
 
+
+
 function ServiceDinamic(props) {
   let location = useLocation();
 
