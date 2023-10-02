@@ -17,7 +17,13 @@ body {
   width: 50%;
 }
 .imageMaxWith{
-  max-width: 100%;
+max-width: 100%;
+
+object-fit: cover;
+}
+.imgclass2{
+  max-width: 400px;
+  max-height: 300px;
 }
 .paddingTop10{
   padding-top: 10px;

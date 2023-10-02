@@ -4,7 +4,7 @@ import "../../css/visitblog.css";
 function CardVisit(props) {
   return (
     <div className="change-your-lock ">
-      <img src={props.image} alt="" />
+      {/* <img src={props.image} alt="" /> */}
 
       <div className="content">
         <h3>{props.h3}</h3>

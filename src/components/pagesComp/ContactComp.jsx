@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import '../../App.css';
 import '../../css/contact.css';
 import Logo from '../logo/Logo';
@@ -6,6 +7,30 @@ import NavPages from './NavPages';
 
 
 function ContactComp() {
+  const [message1,setMessage] = useState('')
+  const [name1,setName] = useState({name:''})
+  const [email1,setEmail] = useState('')
+  const [phone1,setPhone] = useState('')
+
+
+  function getName(e){
+    setName({name:e.target.value})
+
+  }function getEmail(e){
+    setEmail(e.target.value)
+
+  }function getPhone(e){
+    setPhone(e.target.value)
+
+  }
+  function getMessage(e){
+    setMessage(e.target.value)
+
+  }
+
+  function sendMessage(){
+    
+  }
   return (
     <div className="">
        <NavPages header={"CONTACT"} class='imgContact' />
@@ -49,21 +74,24 @@ function ContactComp() {
   <div className="flexCol ">
   <div className="formInputs flexCol">
         <lable className="label">YOUR NAME</lable>
-        <input type="text" placeholder='Enter Your Name' className="inputText" />
+        <input onChange={getName} type="text" placeholder='Enter Your Name' className="inputText" />
        </div>
 
        <div className="formInputs flexCol">
         <lable className="label">E-MAIL ADDRESS</lable>
-        <input type="text" placeholder='Enter Your E-mail address' className="inputText" />
+        <input type="text" onChange={getEmail} placeholder='Enter Your E-mail address' className="inputText" />
        </div>
        <div className="formInputs flexCol">
         <lable className="label">PHONE NUMBER</lable>
-        <input type="text" placeholder='Enter Your phone number' className="inputText" />
+        <input type="text" onChange={getPhone} placeholder='Enter Your phone number' className="inputText" />
        </div>
        <div className="formInputs flexCol">
         <lable className="label">MESSAGE</lable>
-<textarea name="" id="" cols="30" rows="10"></textarea>       </div>
+<textarea onChange={getMessage} name="" id="" cols="30" rows="10"></textarea>       </div>
 
+<a className='blue-btn' href={`https://api.whatsapp.com/send?phone=+972534273529&text=hello%20my name is%20${name1}%20 email:%20 ${email1}%20phone:%20 ${phone1}%20${message1}`}>
+  send
+</a>
 
   </div>
 

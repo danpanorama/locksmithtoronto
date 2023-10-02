@@ -4,6 +4,15 @@ import Img1 from "../../images/keyfree.jpg";
 import Img2 from "../../images/car-key.jpg";
 import { Link } from "react-router-dom";
 
+import Lock1 from '../../images/lock1.jpeg'
+import Lock2 from '../../images/lock2.jpeg'
+import Lock3 from '../../images/lock3.jpeg'
+import Lock4 from '../../images/lock4.jpeg'
+import Lock5 from '../../images/lock5.jpeg'
+import Lock6 from '../../images/lock6.jpeg'
+
+
+
 function ServiceSquare(props) {
   const arr = [
     {
@@ -24,11 +33,11 @@ function ServiceSquare(props) {
       headerRow3: "Will the car be damaged?",
       textRow3:
         "No. We guarantee that there won't be any damage to your car, not even the slightest. Our locksmiths are extremely experienced in car opening and they use high quality, professional car opening tools which eliminates the risk of damage. We've unlocked thousands of car and never left any damage whatsoever. If we would, of course you will be compensated.",
-      image4: "https://www.frontrangelocksmith.com/images/open-car-door.jpeg",
+      image4: Lock1,
       headerRow4: "Can we open any car?",
       textRow4:
         "Yes. We unlock 100% of the cars. Doesn't matter which year, make or model, we can unlock it. Even if the keys are in the trunk and the trunk release doesn't work.",
-      image5: "	https://www.frontrangelocksmith.com/images/giving-keys.jpeg",
+      image5: Lock2,
       headerRow5: "Will your insurance cover it?",
       textRow5:
         "It depends. Some insurances also cover road side assistance and locksmith services. Often we find that the insurance does cover the service and the customer didn't know about it, so we always advise that you check. In case your insurance covers the service, we will work with your insurance company to make sure you get reimbursed as soon as possible.",
@@ -49,7 +58,7 @@ function ServiceSquare(props) {
       textRow2:
         "20 minutes or less. During the day our locksmiths are scattered around toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in toronto with the lowest arrival times.",
       image2:
-        "https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
+       Lock3,
 
       image3:
         "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
@@ -114,17 +123,17 @@ function ServiceSquare(props) {
         "https://www.frontrangelocksmith.com/images/lock-change-thumbnail.png",
 
       image2:
-        "https://www.frontrangelocksmith.com/images/change-lock-thumbnail.png",
+        Lock4,
       headerRow2: "Which locks can we change?",
       textRow2:
         "In all of our years in business there has never been a lock we weren’t able to replace. From unique sliding door locks to commercial push bars, old rare mechanisms and uncommon designs and finishes, we can always find either an identical lock to the one you currently have or a similar one. If the lock you are looking for is made by a brand we don’t carry in stock – we will order it from one of our suppliers and come back to install it while assuring your home or business stays secured while we do.",
       image3:
-        "https://www.frontrangelocksmith.com/images/picking-lock.jpeg",
+       Lock5,
       headerRow3: "The lock replacement process",
       textRow3:
         "One of our professional locksmiths will arrive at your home or office at the time requested. (or within 30 minutes if you need the service immediately) bulletThe locksmith will inspect your locks and inform you about the different options so you can choose together which solution best matches your needs and budget. bulletAfter you choose the brand, style and security grading of your locks, the locksmith will install them. bullet2 keys are included for each lock installed. If you need more copies, let the locksmith know and he will provide you with as many copies as you need for an extra charge.",
       image4:
-        "https://res.cloudinary.com/dt0sbcfc6/image/upload/v1572202534/denver/lock-change-thumbnail-2.jpg",
+        Lock6,
       headerRow4: "Commercial Lock Change in Toronto",
       textRow4:
         "At Cheetah  Locksmith we specialize in commercial work. Our locksmiths have decades of combined experience changing all types of locks for businesses. We can change and repair a wide range of commercial locks and mechanisms such as push bars, Interchangeable core systems, mortise cylinders and Detex locking devices. Keep in mind that it’s quite rare that a commercial or a heavy duty mechanism needs to be replaced. Almost always it can be fixed by just replacing a part in it. Before changing any non-working mechanism, we will always offer to try and fix it first and only replace it as a last resort. Whether we change or repair it – our 6 months labor warranty has you covered in case something goes wrong.",

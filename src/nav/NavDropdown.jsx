@@ -2,6 +2,13 @@ import { Link, NavLink } from "react-router-dom";
 
 import "../App.css";
 import "../css/nav.css";
+import Lock1 from '../images/lock1.jpeg'
+import Lock2 from '../images/lock2.jpeg'
+import Lock3 from '../images/lock3.jpeg'
+import Lock4 from '../images/lock4.jpeg'
+import Lock5 from '../images/lock5.jpeg'
+import Lock6 from '../images/lock6.jpeg'
+
 
 function NavDropdown() {
   return (
@@ -38,7 +45,7 @@ function NavDropdown() {
             textRow4:
               "Yes. We unlock 100% of the cars. Doesn't matter which year, make or model, we can unlock it. Even if the keys are in the trunk and the trunk release doesn't work.",
             image5:
-              "	https://www.frontrangelocksmith.com/images/giving-keys.jpeg",
+             Lock1,
             headerRow5: "Will your insurance cover it?",
             textRow5:
               "It depends. Some insurances also cover road side assistance and locksmith services. Often we find that the insurance does cover the service and the customer didn't know about it, so we always advise that you check. In case your insurance covers the service, we will work with your insurance company to make sure you get reimbursed as soon as possible.",
@@ -67,7 +74,7 @@ function NavDropdown() {
             textRow2:
               "20 minutes or less. During the day our locksmiths are scattered around toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in toronto with the lowest arrival times.",
             image2:
-              "https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
+              Lock2,
 
             image3:
               "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
@@ -75,12 +82,12 @@ function NavDropdown() {
             textRow3:
               "Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation.",
             image4:
-              "https://www.frontrangelocksmith.com/images/picking-lock.jpeg",
+              Lock3,
             headerRow4: "Can we open any lock?",
             textRow4:
               "Yes. From basic door knobs and deadbolts to high security commercial locks or keypads, we can open any lock. There has never been a lock we weren't able to unlock.",
             image5:
-              "	https://www.frontrangelocksmith.com/images/looking-for-keys.jpeg",
+             Lock5,
             headerRow5: "How long does it take?",
             textRow5:
               "Usually less than 10 minutes. Naturally, the more secure the lock is the longer it may take.",
