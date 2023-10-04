@@ -35,7 +35,7 @@ function NavDropdown() {
               "https://www.frontrangelocksmith.com/images/parked-car.jpeg",
 
             image3:
-              "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+              "",
             headerRow3: "Will the car be damaged?",
             textRow3:
               "No. We guarantee that there won't be any damage to your car, not even the slightest. Our locksmiths are extremely experienced in car opening and they use high quality, professional car opening tools which eliminates the risk of damage. We've unlocked thousands of car and never left any damage whatsoever. If we would, of course you will be compensated.",
@@ -77,7 +77,7 @@ function NavDropdown() {
               Lock2,
 
             image3:
-              "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+              "",
             headerRow3: "Will the lock be damaged?",
             textRow3:
               "Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation.",
@@ -114,7 +114,7 @@ function NavDropdown() {
               "https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
 
             image3:
-              "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+              "",
             headerRow3: "Will the lock be damaged?",
             textRow3:
               "Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation.",
@@ -202,7 +202,7 @@ function NavDropdown() {
             textRow2:
               "Once you set up an appointment to get your locks rekeyed, one of our locksmiths will arrive at the time scheduled. You will walk him through all the locks your want to rekey. If you want to match specific locks to work on the same key and other locks on a different key we can do that as well. The locksmith will then take the locks to his van and rekey them according to the setup you decided on, using only brand new original keys. And then install them back on your doors and hand you the keys. It's really that simple. Rekeying a whole house rarely takes more than an hour.",
             image3:
-              "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+              "",
             headerRow3: "Rekey Schlage Locks",
             textRow3:
               "Schlage is one of the 2 biggest manufacturers of residential locks in the US. It is considered to be the slightly higher quality brand and therefore its hardware is a bit more expensive. Having said that, the cost for rekeying a Schalge lock is not higher since the pins used for the rekeying process are the same across all brands. At Cheetah  Locksmith we rekey hundreds of Schlage locks in Toronto every week so if you need to rekey Schalge locks or even if you just have a question, don't hesitate to call us.",

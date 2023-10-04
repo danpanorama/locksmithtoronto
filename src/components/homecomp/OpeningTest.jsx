@@ -58,17 +58,17 @@ call
     
     headerRow2:'How soon can we be there?',
     textRow2:"20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
-    image2:"https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
+    image2:"",
     
-    image3:'https://www.frontrangelocksmith.com/images/man-thumbnail-2.png',
+    image3:'',
     headerRow3:'Will the lock be damaged?',
     textRow3:"Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation."
     ,
-    image4:'https://www.frontrangelocksmith.com/images/picking-lock.jpeg',
+    image4:'',
     headerRow4:'Can we open any lock?',
     textRow4:"Yes. From basic door knobs and deadbolts to high security commercial locks or keypads, we can open any lock. There has never been a lock we weren't able to unlock."
     ,
-    image5:'	https://www.frontrangelocksmith.com/images/looking-for-keys.jpeg',
+    image5:'',
     headerRow5:'How long does it take?',
     textRow5:"Usually less than 10 minutes. Naturally, the more secure the lock is the longer it may take."
     ,
@@ -98,17 +98,17 @@ call
     
     headerRow2:'How soon can we be there?',
     textRow2:"20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
-    image2:"https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
+    image2:"",
     
-    image3:'https://www.frontrangelocksmith.com/images/man-thumbnail-2.png',
+    image3:'',
     headerRow3:'Will the lock be damaged?',
     textRow3:"Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation."
     ,
-    image4:'https://www.frontrangelocksmith.com/images/picking-lock.jpeg',
+    image4:'',
     headerRow4:'Can we open any lock?',
     textRow4:"Yes. From basic door knobs and deadbolts to high security commercial locks or keypads, we can open any lock. There has never been a lock we weren't able to unlock."
     ,
-    image5:'	https://www.frontrangelocksmith.com/images/looking-for-keys.jpeg',
+    image5:'',
     headerRow5:'How long does it take?',
     textRow5:"Usually less than 10 minutes. Naturally, the more secure the lock is the longer it may take."
     ,
@@ -131,15 +131,15 @@ call
                       textRow2:
                         "20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
                       image2:
-                        "https://www.frontrangelocksmith.com/images/keys-on-wood.jpeg",
+                        "",
           
                       image3:
-                        "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+                        "",
                       headerRow3: "Will the lock be damaged?",
                       textRow3:
                         "Most likely not. Our policy is to only drill the lock as a last resort. Our locksmiths will first try to pick the lock, and almost always succeed. Rarely we run into a stubborn lock that seems impossible to pick, only then, and with your approval, we would drill the lock. This is not common and only happens in about 5 percent of locks. In case we had to drill the lock we can offer you a new identical lock and won't charge you for labor and installation.",
                       image4:
-                        "https://www.frontrangelocksmith.com/images/picking-lock.jpeg",
+                        "",
                       headerRow4: "Can we open any lock?",
                       textRow4:
                         "Yes. From basic door knobs and deadbolts to high security commercial locks or keypads, we can open any lock. There has never been a lock we weren't able to unlock.",
@@ -180,7 +180,7 @@ FORGOT YOUR BUSINESS KEYS ?
             textRow2:
               "In all of our years in business there has never been a lock we weren’t able to replace. From unique sliding door locks to commercial push bars, old rare mechanisms and uncommon designs and finishes, we can always find either an identical lock to the one you currently have or a similar one. If the lock you are looking for is made by a brand we don’t carry in stock – we will order it from one of our suppliers and come back to install it while assuring your home or business stays secured while we do.",
             image3:
-              "https://www.frontrangelocksmith.com/images/picking-lock.jpeg",
+              "",
             headerRow3: "The lock replacement process",
             textRow3:
               "One of our professional locksmiths will arrive at your home or office at the time requested. (or within 30 minutes if you need the service immediately) bulletThe locksmith will inspect your locks and inform you about the different options so you can choose together which solution best matches your needs and budget. bulletAfter you choose the brand, style and security grading of your locks, the locksmith will install them. bullet2 keys are included for each lock installed. If you need more copies, let the locksmith know and he will provide you with as many copies as you need for an extra charge.",
@@ -221,7 +221,7 @@ FORGOT YOUR BUSINESS KEYS ?
             textRow2:
               "Once you set up an appointment to get your locks rekeyed, one of our locksmiths will arrive at the time scheduled. You will walk him through all the locks your want to rekey. If you want to match specific locks to work on the same key and other locks on a different key we can do that as well. The locksmith will then take the locks to his van and rekey them according to the setup you decided on, using only brand new original keys. And then install them back on your doors and hand you the keys. It's really that simple. Rekeying a whole house rarely takes more than an hour.",
             image3:
-              "https://www.frontrangelocksmith.com/images/man-thumbnail-2.png",
+              "",
             headerRow3: "Rekey Schlage Locks",
             textRow3:
               "Schlage is one of the 2 biggest manufacturers of residential locks in the US. It is considered to be the slightly higher quality brand and therefore its hardware is a bit more expensive. Having said that, the cost for rekeying a Schalge lock is not higher since the pins used for the rekeying process are the same across all brands. At Cheetah  Locksmith we rekey hundreds of Schlage locks in Toronto every week so if you need to rekey Schalge locks or even if you just have a question, don't hesitate to call us.",

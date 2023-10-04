@@ -19,10 +19,10 @@ function Service() {
    
 <div className="flexRowToCol  bet ">
       <ServiceSquare item={'1'}
-      img={'https://www.frontrangelocksmith.com/images/house.png'} header={'Car Locksmith Service'} text='We have vast experience with all years, makes and models. We also service all types of trucks, motorcycles and buses.' linkList={['Car Unlock','Trunk Unlock']} />
+      img={''} header={'Car Locksmith Service'} text='We have vast experience with all years, makes and models. We also service all types of trucks, motorcycles and buses.' linkList={['Car Unlock','Trunk Unlock']} />
     <ServiceSquare 
     item={'2'}
-    img={'https://www.frontrangelocksmith.com/images/car.png'} header={'House Locksmith Services'}  
+    img={''}  
     text='We offer a complete and comprehensive house locksmith service for any lock related service you need around the house.' 
     linkList={['House Unlock','Lock Change Service','Lock Rekey Service'
     ,'Lock Repair',
@@ -35,7 +35,7 @@ function Service() {
 
 
    <ServiceSquare item={'3'}
-   img={'https://www.frontrangelocksmith.com/images/commercial.png'}
+   img={''}
    header={'Commercial Locksmith Services'} 
     text='Commercial locksmith service is our main expertise. We offer service for all types of commercial locks, including store front locks, master key systems, panic bars and more.'
      linkList={['Business Lock Change Service',
@@ -50,7 +50,7 @@ function Service() {
     
     
     <ServiceSquare item={'4'}
-    img={'https://www.frontrangelocksmith.com/images/other.png'}
+    img={''}
     header={'Other Services'} 
      text="Need a key made for a non-standard lock? Have a problem with you safe? We offer a wide variety of addition services. If you didn't find what you're looking for on the list, give us a call"
       linkList={['Emergency Safe Opening',
