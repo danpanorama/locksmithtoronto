@@ -25,10 +25,10 @@ function OpeningTest() {
             </h3>
             <div className="grinRow ButtonsCall">
                 <button className="buttonNumber displayNone btn marginRight10">
-                    1561-235-1653
+                647-254-4341
                 </button>
                 <button className="buttonPhone bg btnPhoneMedia phonBtn btn">
-call
+<a className="cw" href="tel:6472544341">CALL</a>
                 </button>
             </div>
             <br />
