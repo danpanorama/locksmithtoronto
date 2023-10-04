@@ -35,7 +35,7 @@ function NavRoute() {
       <Route path="/servicepage" element={<ServiceDinamic />} exact />
 
 
-        {/* <Routes path="/404" element={<Nofuondpage/>} exact/> */}
+        <Route path="/404" element={<HomeScreen/>} exact/>
       </Routes>  
     </div>
   );

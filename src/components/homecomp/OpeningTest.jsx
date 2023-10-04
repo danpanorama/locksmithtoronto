@@ -58,7 +58,7 @@ function OpeningTest() {
     
     headerRow2:'How soon can we be there?',
     textRow2:"20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
-    image2:"",
+    image2:"1",
     
     image3:'',
     headerRow3:'Will the lock be damaged?',
@@ -98,7 +98,7 @@ function OpeningTest() {
     
     headerRow2:'How soon can we be there?',
     textRow2:"20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
-    image2:"",
+    image2:"1",
     
     image3:'',
     headerRow3:'Will the lock be damaged?',
@@ -131,7 +131,7 @@ function OpeningTest() {
                       textRow2:
                         "20 minutes or less. During the day our locksmiths are scattered around Toronto and the surrounding cities. When you need an emergency lockout service we send the closest locksmith to you, so you will wait the absolute minimum while we're rushing over to unlock you home. Over the years we gained the reputation of being one of the locksmith companies in Toronto with the lowest arrival times.",
                       image2:
-                        "",
+                       "1",
           
                       image3:
                         "",
@@ -175,7 +175,7 @@ FORGOT YOUR BUSINESS KEYS ?
               "https://www.frontrangelocksmith.com/images/lock-change-thumbnail.png",
 
             image2:
-              "https://www.frontrangelocksmith.com/images/change-lock-thumbnail.png",
+            "https://www.frontrangelocksmith.com/images/change-lock-thumbnail.png",
             headerRow2: "Which locks can we change?",
             textRow2:
               "In all of our years in business there has never been a lock we weren’t able to replace. From unique sliding door locks to commercial push bars, old rare mechanisms and uncommon designs and finishes, we can always find either an identical lock to the one you currently have or a similar one. If the lock you are looking for is made by a brand we don’t carry in stock – we will order it from one of our suppliers and come back to install it while assuring your home or business stays secured while we do.",
@@ -216,7 +216,7 @@ FORGOT YOUR BUSINESS KEYS ?
               "https://www.frontrangelocksmith.com/images/rekeyed-kwikset.jpeg",
 
             image2:
-              "https://www.frontrangelocksmith.com/images/rekey-pinning-kit.jpeg",
+             "https://www.frontrangelocksmith.com/images/rekey-pinning-kit.jpeg",
             headerRow2: "The Rekeying process",
             textRow2:
               "Once you set up an appointment to get your locks rekeyed, one of our locksmiths will arrive at the time scheduled. You will walk him through all the locks your want to rekey. If you want to match specific locks to work on the same key and other locks on a different key we can do that as well. The locksmith will then take the locks to his van and rekey them according to the setup you decided on, using only brand new original keys. And then install them back on your doors and hand you the keys. It's really that simple. Rekeying a whole house rarely takes more than an hour.",

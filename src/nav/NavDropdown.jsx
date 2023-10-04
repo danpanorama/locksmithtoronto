@@ -50,7 +50,7 @@ function NavDropdown() {
             textRow5:
               "It depends. Some insurances also cover road side assistance and locksmith services. Often we find that the insurance does cover the service and the customer didn't know about it, so we always advise that you check. In case your insurance covers the service, we will work with your insurance company to make sure you get reimbursed as soon as possible.",
             image6:
-              "https://www.frontrangelocksmith.com/images/smiling-man-thumbs-up.png",
+              "",
             headerRow6: "How long does it take to unlock your car?",
             textRow6:
               "Usually not more than a few minutes. Some cars are more complicated to unlock and can take up to 15 minutes, but it's not common.",
@@ -129,7 +129,7 @@ function NavDropdown() {
             textRow5:
               "Usually less than 10 minutes. Naturally, the more secure the lock is the longer it may take.",
             image6:
-              "	https://www.frontrangelocksmith.com/images/smiling-man-thumbs-up.png",
+              "",
             headerRow6:
               "Why should you choose Cheetah Locksmith as your emergency locksmith?",
             textRow6:
@@ -217,7 +217,7 @@ function NavDropdown() {
             textRow5:
               "This is a question we run into often. Home Depot does rekey locks, but only upon purchase at one of their stores. It's actually a great solution if you've just purchased brand new locks from them and want the locks to match an existing set you have at home or to match them with another set you purchased. However, they do not offer a free mobile locksmith service, so if the locks are already installed your best option would be to call Cheetah Locksmith.",
             image6:
-              "https://www.frontrangelocksmith.com/images/smiling-man-thumbs-up.png",
+              "",
             headerRow6:
               "Why Choose Cheetah Locksmith to rekey your home or business?",
             textRow6:
