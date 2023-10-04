@@ -27,7 +27,7 @@ function OpeningTest() {
                 <button className="buttonNumber displayNone btn marginRight10">
                 647-254-4341
                 </button>
-                <button className="buttonPhone bg btnPhoneMedia phonBtn btn">
+                <button className="buttonPhone playf bg btnPhoneMedia phonBtn btn">
 <a className="cw" href="tel:6472544341">CALL</a>
                 </button>
             </div>
@@ -116,7 +116,7 @@ function OpeningTest() {
     }}  className={'cw'} >LOCKED OUT OF HOUSE?</Link>
                 
                 </div>
-                <div className="oneSquare wrapH1">
+                <div className="oneSquare wrapH1  ">
 
                   <Link to={'/servicepage'}
                      state={{
@@ -161,7 +161,7 @@ FORGOT YOUR BUSINESS KEYS ?
                   
                   
                   </div>
-              <div className="oneSquare wrapH1"> 
+              <div className="oneSquare wrapH1 displayNone"> 
               <Link to={'/servicepage'}  state={{
             header: "Lock Replacement Service in Toronto, ON",
             headerBlue: "Lock Change Service in Toronto",
@@ -204,7 +204,7 @@ FORGOT YOUR BUSINESS KEYS ?
               </Link>
               
               </div>
-              <div className="oneSquare wrapH1">
+              <div className="oneSquare wrapH1 displayNone">
                 <Link   to={"/servicepage"}className={'cw '}
           state={{
             header: "Rekey Locks in Toronto, ON",
