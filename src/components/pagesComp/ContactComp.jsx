@@ -89,7 +89,7 @@ function ContactComp() {
         <lable className="label">MESSAGE</lable>
 <textarea onChange={getMessage} name="" id="" cols="30" rows="10"></textarea>       </div>
 
-<a className='blue-btn' href={`https://api.whatsapp.com/send?phone=+972534273529&text=hello%20my name is%20${name1}%20 email:%20 ${email1}%20phone:%20 ${phone1}%20${message1}`}>
+<a className='blue-btn' href={`https://api.whatsapp.com/send?phone=6472544341&text=hello%20my name is%20${name1}%20 email:%20 ${email1}%20phone:%20 ${phone1}%20${message1}`}>
   send
 </a>
 
