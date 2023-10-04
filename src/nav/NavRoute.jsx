@@ -23,7 +23,7 @@ function NavRoute() {
       </div> */}
       <Nav/>
 {/* <NewNav/> */}
-<Routes location={location} key={location.pathname} >
+<Routes basename='/' location={location} key={location.pathname} >
       <Route path="*" element={<HomeScreen />} exact />
       <Route path="/" element={<HomeScreen />} exact />
  

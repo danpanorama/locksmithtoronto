@@ -23,7 +23,7 @@ function ServiceDinamic(props) {
     console.log(location.state);
   }, []);
   return (
-    <div className=" ">
+    <div className="nooffset ">
       <NavPages header={location.state.header} class={"imageAbout"} />
 
       <div className="containerL">
