@@ -7,7 +7,7 @@ function ButtonsSec(props) {
     <div className="flexRow btnSec center">
       
         <Link to="/service" className="grey-btn cw">OUR SERVICES</Link>
-        <a href="tel:+1(647)2894980" className="blue-btn">CALL ME</a>
+        <a href="tel:6472544341" className="blue-btn">CALL ME</a>
    
     </div>
   );

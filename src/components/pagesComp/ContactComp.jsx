@@ -46,7 +46,7 @@ function ContactComp() {
 
           <div className="ListDetails">
             <div className="detail flexRow">
-             <span className='fa fa-phone'></span> <a href="" className="aTag tag">720-439-4081</a>
+             <span className='fa fa-phone'></span> <a href="" className="aTag tag">647-254-4341</a>
             </div>
             <div className="detail flexRow">
             <span className='fa fa-phone'></span><a href="" className="aTag tag">Monday through Sunday, all day.</a>
